@@ -1,4 +1,5 @@
-res/images
 *.png
+*.jpg
+*.gif
 *.otf
 debug.txt

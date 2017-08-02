@@ -1,9 +1,14 @@
 var framew = 416;
 var frameh = 234;
 var detailh = 100;
+var recap;
+var week;
 
 $(document).ready(function()
 {
+    recap = getParameter("id");
+    if (recap == null || recap == "") window.location = "http://recap.agdg.io";
+    week = recap.charAt(4);
     jsonLoad(function(data)
     {
         build(data);
@@ -11,9 +16,18 @@ $(document).ready(function()
     });
 });
 
+function getParameter(name) {
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)");
+    var results = regex.exec(window.location.href);
+    if (!results) return null;
+    if (!results[2]) return "";
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
 function jsonLoad(callback)
 {
-    var temp = $.getJSON("res/data.json", function(data) {
+    var temp = $.getJSON("res/recaps/" + recap + "/data.json", function(data) {
         callback(data);
     });
 }
@@ -50,7 +64,7 @@ function build(jsonData)
     var grid = newElement("div", { class: "grid" });
     header.appendChild(newElement("img", { src: "res/agdg.png", alt: "JLMG" }));
     text.appendChild(newElement("h1", {}, "JULY 2017"));
-    text.appendChild(newElement("h1", { id: "week" }, "WEEK 3"));
+    text.appendChild(newElement("h1", { id: "week" }, "WEEK " + week));
     header.appendChild(text);
     for (var id in jsonData)
     {
@@ -98,7 +112,6 @@ function resize(img)
         yshift = -(frameh*excess)/2;
     }
     context.drawImage(img, 0, 0, w, h, xshift, valign + yshift, framew*scale, hscaled*scale);
-    canvas.style.backgroundColor = "white";
 }
 
 function correctImages(canvas)
@@ -114,6 +127,6 @@ function correctImages(canvas)
         {
             resize(this);
         }
-        img.src = "res/images/" + id + canvas.getAttribute("ext");
+        img.src = "res/recaps/" + recap + "/images/" + id + canvas.getAttribute("ext");
     }
 }

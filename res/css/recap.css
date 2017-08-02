@@ -1,18 +1,20 @@
 @font-face {
    font-family: uc; 
-   src: url('res/uc.otf');
+   src: url('../uc.otf');
 }
 
 @font-face {
    font-family: uc-bold; 
-   src: url('res/uc_bold.otf');
+   src: url('../uc_bold.otf');
+}
+
+canvas {
+	background-color: white;
 }
 
 body {
 	background: linear-gradient(#ED2664, #ED2565);
 	font-family: uc;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 
 .header {

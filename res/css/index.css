@@ -1,0 +1,70 @@
+@font-face {
+   font-family: uc; 
+   src: url('../uc.otf');
+}
+
+@font-face {
+   font-family: uc-light; 
+   src: url('../uc_light.otf');
+}
+
+body {
+	background-color: #3F51B5; /*#CC2A41*/ /*#4285f4*/ /*#556270*/
+	font-family: uc;
+	color: white;
+}
+
+p {
+	font-size: 1.75em;
+}
+
+.container {
+	width: 100%;
+	height: calc(50% + 27px);
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.search {
+	width: 88%;
+	max-width: 750px;
+	height: 55px;
+	border-radius: 2px;
+	background-color: white;
+	color: #212121;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
+}
+
+.search p {
+	vertical-align: middle;
+	margin-left: 20px;
+	position: relative;
+    top: 50%; 
+    transform: translateY(-50%);
+}
+
+.info {
+	width: 88%;
+	max-width: 750px;
+}
+
+.info h2 {
+	font-family: uc-light;
+	font-size: 5em;
+	margin-bottom: 20px;
+	margin-top: -14px;
+	text-align: center;
+}
+
+.info p {
+	border-radius: 2px;
+	padding: 20px;
+	background-color: #5C6BC0;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
+	margin-bottom: 20px;
+}
