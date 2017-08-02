@@ -7,7 +7,7 @@ var week;
 $(document).ready(function()
 {
     recap = getParameter("id");
-    if (recap == null || recap == "") window.location = "http://recap.agdg.io";
+    if (recap == null || recap == "") home();
     week = recap.charAt(4);
     jsonLoad(function(data)
     {
@@ -15,6 +15,11 @@ $(document).ready(function()
         correctImages();
     });
 });
+
+function home()
+{
+    window.location = "http://recap.agdg.io";
+}
 
 function getParameter(name) {
     name = name.replace(/[\[\]]/g, "\\$&");
@@ -27,8 +32,17 @@ function getParameter(name) {
 
 function jsonLoad(callback)
 {
-    var temp = $.getJSON("res/recaps/" + recap + "/data.json", function(data) {
-        callback(data);
+    $.ajax({
+        url: "res/recaps/" + recap + "/data.json",
+        dataType: "json",
+        success: function(data)
+        {
+            callback(data);
+        },
+        error: function(data)
+        {
+            home();
+        }
     });
 }
 
