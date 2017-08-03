@@ -120,10 +120,10 @@ function resize(img)
     var scale = 1;
     if (hscaled < frameh)
     {
-        scale = 1/((hscaled)/frameh);
+        scale = 1/(hscaled/frameh);
         var excess = scale - 1;
         xshift = -(framew*excess)/2;
-        yshift = -(frameh*excess)/2;
+        yshift = -(hscaled*excess)/2;
     }
     context.drawImage(img, 0, 0, w, h, xshift, valign + yshift, framew*scale, hscaled*scale);
 }
