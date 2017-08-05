@@ -9,15 +9,17 @@
         <link rel="stylesheet" href="res/css/index.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <script src="scripts/forms.js"></script>
+        <script src="scripts/common.js"></script>
+        <script src="scripts/home.js"></script>
     </head>
     <body>
-        <div class="container">
-            <div class="info">
-                <h2>Weekly Recap</h2>
-                <p>Enter a recap code here. Format is YYMMW. e.g.<br>17073 (July 2017, week 3)</p>
+        <div class="container" id="upper">
+            <div class="content info">
+                <h1>/agdg/ weekly recap</h1>
+                <p>Enter a recap code here. Format is YYMMW. e.g.<br>17073 - July 2017, week 3</p>
             </div>
-            <input type="number" id="field" autofocus="autofocus" placeholder="#">
+            <input class="content" type="number" id="field" autofocus="autofocus" placeholder="#">
         </div>
+        <div class="container" id="lower"></div>
     </body>
 </html>

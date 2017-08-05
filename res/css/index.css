@@ -9,7 +9,7 @@
 }
 
 body {
-	background-color: #3F51B5; /*#CC2A41*/ /*#4285f4*/ /*#556270*/
+	background-color: #3F51B5;
 	font-family: uc;
 	color: white;
 }
@@ -18,22 +18,43 @@ p {
 	font-size: 1.75em;
 }
 
+h1, h2 {
+	font-family: uc-light;
+	font-size: 5em;
+}
+
+.na, .na:link, .na:visited, .na:hover, .na:focus, .na:active {
+    color: inherit;
+    text-decoration: none;
+}
+
 .container {
 	width: 100%;
-	height: calc(50% + 30px);
 	display: flex;
 	flex-direction: column;
-	justify-content: flex-end;
 	align-items: center;
 	position: absolute;
-	top: 0;
 	left: 0;
 }
 
-input[type=number] {
+.content {
 	width: 88%;
 	max-width: 750px;
-	height: 60px;
+}
+
+.container#upper {
+	top: 0;
+	height: calc(50% + 30px);
+	justify-content: flex-end;
+}
+
+.container#lower {
+	top: calc(50% + 30px);
+	justify-content: flex-start;
+}
+
+input[type=number] {
+	min-height: 60px;
 	padding-left: 20px;
 	border-radius: 4px;
 	background-color: white;
@@ -41,19 +62,10 @@ input[type=number] {
 	font-size: 1.75em;
 	color: #212121;
 	border: none;
-	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
 }
 
-.info {
-	width: 88%;
-	max-width: 750px;
-}
-
-.info h2 {
-	font-family: uc-light;
-	font-size: 5em;
-	margin-bottom: 25px;
-	margin-top: -14px;
+.info h1 {
+	margin: -14px 0 25px 0;
 	text-align: center;
 }
 
@@ -63,4 +75,33 @@ input[type=number] {
 	background-color: #5C6BC0;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
 	margin-bottom: 25px;
+}
+
+.quick {
+	background-color: transparent;
+	height: 100px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+h2#month {
+	margin-top: 7px;
+	padding-right: 50px;
+}
+
+.list {
+	background-color: transparent;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.link {
+	margin-top: -13px;
+    margin-right: 40px;
+    text-decoration: none;
+    border-bottom: 3px solid white;
+}
+
+.link#dead {
+	border-bottom: none;
 }

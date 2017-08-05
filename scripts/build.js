@@ -16,11 +16,6 @@ $(document).ready(function()
     });
 });
 
-function home()
-{
-    window.location = "http://recap.agdg.io";
-}
-
 function getParameter(name) {
     name = name.replace(/[\[\]]/g, "\\$&");
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)");
@@ -44,18 +39,6 @@ function jsonLoad(callback)
             home();
         }
     });
-}
-
-function newElement(tag, attributes, content)
-{
-    var obj = document.createElement(tag);
-    for (id in attributes)
-    {
-        var val = attributes[id];
-        obj.setAttribute(id, val);
-    }
-    obj.innerHTML = content || "";
-    return obj;
 }
 
 function loadItemContents(entry, parts)

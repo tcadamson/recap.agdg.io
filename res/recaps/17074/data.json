@@ -460,7 +460,7 @@
         "name": "yamasakai",
         "tools": "Unity, PS, Blender",
         "web": "https://twitter.com/yamasakai | gloomgrooveundernight.tumblr.com",
-        "scoring": "32 [x2.5] - 4 streak",
+        "scoring": "42 [x2.5] - 4 streak",
         "ext": ".png",
         "progress": [
             "+ Charged punch implemented, but need interaction with enemies, ui maybe etc...",

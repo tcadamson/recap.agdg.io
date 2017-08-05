@@ -2,4 +2,6 @@
 *.jpg
 *.gif
 *.otf
+*.min.css
+*.min.js
 debug.txt
