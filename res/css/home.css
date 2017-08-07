@@ -34,7 +34,7 @@ h1, h2 {
 
 .container {
 	width: 100%;
-	min-width: 480px;
+	min-width: 536px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -58,13 +58,13 @@ h1, h2 {
 	justify-content: flex-start;
 }
 
-.container#timeline {
+.container#page {
 	top: 30px;
 	justify-content: flex-start;
 	margin-bottom: 200px;
 }
 
-.container#footer {
+.container#nav {
 	position: fixed;
 	height: 140px;
 	bottom: calc(0%);
@@ -88,6 +88,10 @@ input[type=number] {
 	text-align: center;
 }
 
+.tleft h1 {
+	text-align: left;
+}
+
 .info p {
 	border-radius: 4px;
 	padding: 20px;
@@ -96,9 +100,24 @@ input[type=number] {
 	margin-bottom: 25px;
 }
 
+.nbg p {
+	background-color: transparent;
+	box-shadow: none;
+}
+
 .block {
 	display: flex;
 	flex-wrap: wrap;
+}
+
+.inline {
+	margin-top: -10px;
+	padding: 0 0 25px 75px;
+}
+
+.inline h2 {
+	border-left: 3px solid white;
+	padding-left: 25px;
 }
 
 .month h2 {
@@ -120,6 +139,16 @@ input[type=number] {
 .list {
 	display: flex;
 	flex-wrap: wrap;
+}
+
+.lhome {
+	display: flex;
+	width: 375px;
+	justify-content: space-between;
+}
+
+.lhome h2 {
+	margin: 7px 0 0 0;
 }
 
 @media only screen and (max-width: 860px) {

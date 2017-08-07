@@ -8,7 +8,7 @@ $(document).ready(function()
 
 function buildTimeline()
 {
-	var tl = document.getElementById("timeline");
+	var tl = document.getElementById("page");
 	var year = newElement("div", { class: "content block year" });
 	var block = newElement("div", { class: "content block" });
 	year.appendChild(newElement("h2", {}, "2017"));
