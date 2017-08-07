@@ -28,8 +28,13 @@ h1, h2 {
     text-decoration: none;
 }
 
+.underline {
+	border-bottom: 3px solid white;
+}
+
 .container {
 	width: 100%;
+	min-width: 480px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -49,7 +54,21 @@ h1, h2 {
 }
 
 .container#lower {
-	top: calc(50% + 30px);
+	top: calc(50% + 30px + 55px);
+	justify-content: flex-start;
+}
+
+.container#timeline {
+	top: 30px;
+	justify-content: flex-start;
+	margin-bottom: 200px;
+}
+
+.container#footer {
+	position: fixed;
+	height: 140px;
+	bottom: calc(0%);
+	background-color: #3F51B5;
 	justify-content: flex-start;
 }
 
@@ -65,7 +84,7 @@ input[type=number] {
 }
 
 .info h1 {
-	margin: -14px 0 25px 0;
+	margin: 0 0 25px 0;
 	text-align: center;
 }
 
@@ -77,31 +96,61 @@ input[type=number] {
 	margin-bottom: 25px;
 }
 
-.quick {
-	background-color: transparent;
-	height: 100px;
+.block {
 	display: flex;
 	flex-wrap: wrap;
 }
 
-h2#month {
-	margin-top: 7px;
+.month h2 {
+	margin: 7px 0 0 0;
 	padding-right: 50px;
 }
 
+.year {
+	margin: 0 0 35px 0;
+}
+
+.year h2 {
+	padding: 5px 25px 5px 25px;
+	font-size: 6em;
+	border: 3px solid white;
+	border-radius: 4px;
+}
+
 .list {
-	background-color: transparent;
 	display: flex;
 	flex-wrap: wrap;
 }
 
-.link {
-	margin-top: -13px;
-    margin-right: 40px;
-    text-decoration: none;
-    border-bottom: 3px solid white;
+@media only screen and (max-width: 860px) {
+    .list {
+        width: 100%;
+    }
 }
 
-.link#dead {
-	border-bottom: none;
+.link {
+	height: 88px;
+	margin-right: 40px;
+}
+
+.link h2 {
+	margin: 7px 0 0 0;
+}
+
+.blink {
+	width: 100%;
+	height: 88px;
+	text-align: center;
+	background-color: #3F51B5;
+	border: 3px solid white;
+	border-radius: 4px;
+	margin: 20px 0 0 0;
+}
+
+.blink h2 {
+	margin: -2px 0 -2px 0;
+}
+
+.nmargin {
+	margin: 0 0 0 0;
 }
