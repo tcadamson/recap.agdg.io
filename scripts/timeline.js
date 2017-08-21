@@ -20,4 +20,5 @@ function buildTimeline()
 	    block.appendChild(list);
 	    tl.appendChild(block);
 	}
+	tl.appendChild(newElement("div", { class: "spacer60" }))
 }

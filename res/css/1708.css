@@ -1,0 +1,36 @@
+body {
+	background-color: #a9c0bd;
+}
+
+.header {
+	height: 185px;
+	background-color: #5e81b0;
+}
+
+.header h1 {
+	color: #f6e4d4;
+	font-size: 4em;
+	line-height: 0.88;
+}
+
+.header img {
+	margin-right: 28px;
+}
+
+.frame {
+	background-color: #f6e4d4;
+}
+
+.heading {
+	color: #887a81;
+}
+
+p#details {
+	background-color: #e0ae7a;
+	color: #f6e4d4;
+}
+
+p#progress {
+	background-color: #5e81b0;
+	color: #f6e4d4;
+}

@@ -8,6 +8,12 @@
    src: url('../uc_light.otf');
 }
 
+@media only screen and (max-width: 870px) {
+    .list {
+        width: 100%;
+    }
+}
+
 body {
 	background-color: #3F51B5;
 	font-family: uc;
@@ -30,6 +36,21 @@ h1, h2 {
 
 .underline {
 	border-bottom: 3px solid white;
+}
+
+.spacer60 {
+	width: 100%;
+	height: 60px;
+}
+
+.spacer45 {
+	width: 100%;
+	height: 45px;
+}
+
+.spacer5 {
+	width: 100%;
+	height: 5px;
 }
 
 .container {
@@ -61,7 +82,7 @@ h1, h2 {
 .container#page {
 	top: 30px;
 	justify-content: flex-start;
-	margin-bottom: 200px;
+	padding-bottom: 140px;
 }
 
 .container#nav {
@@ -141,22 +162,6 @@ input[type=number] {
 	flex-wrap: wrap;
 }
 
-.lhome {
-	display: flex;
-	width: 375px;
-	justify-content: space-between;
-}
-
-.lhome h2 {
-	margin: 7px 0 0 0;
-}
-
-@media only screen and (max-width: 860px) {
-    .list {
-        width: 100%;
-    }
-}
-
 .link {
 	height: 88px;
 	margin-right: 40px;
@@ -180,6 +185,6 @@ input[type=number] {
 	margin: -2px 0 -2px 0;
 }
 
-.nmargin {
+.nav {
 	margin: 0 0 0 0;
 }

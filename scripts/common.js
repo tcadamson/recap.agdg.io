@@ -1,5 +1,6 @@
 var long = { "august": true, "november": true };
 var months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
+var temp = []
 
 function redirect(URL)
 {
@@ -9,6 +10,22 @@ function redirect(URL)
 function home()
 {
 	redirect("http://recap.agdg.io");
+}
+
+function jsonLoad(url, callback)
+{
+    $.ajax({
+        url: url,
+        dataType: "json",
+        success: function(data)
+        {
+            callback(data);
+        },
+        error: function(data)
+        {
+            home();
+        }
+    });
 }
 
 function newElement(tag, attributes, content)
@@ -53,20 +70,22 @@ function monthLinks(data, nested)
 {
     var list = newElement("div", { class: "list" });
     var weeks = long[data.month] ? 5 : 4;
+    var month = parseInt(data.id);
+    temp[month] = [];
     for (var i = 1; i <= weeks; i++)
     {
         var link = newElement("div", { class: "link" });
         var h2 = newElement("h2", {}, "...");
         var URL = "res/recaps/" + data.id + i + "/data.json";
-        links.push({ l: link, URL: "http://recap.agdg.io/view?id=" + data.id + i });
-        urlExists(URL, { id: i }, function(status, args)
+        temp[month][i - 1] = { l: link, URL: "http://recap.agdg.io/view?id=" + data.id + i };
+        urlExists(URL, { month: month, week: i }, function(status, args)
         {
             if (status == 200)
             {
-                var index = args.id - 1;
-                var link = links[index].l;
-                var URL = links[index].URL;
-                var a = newElement("a", { href: URL, class: "na" }, "<h2>" + args.id + "</h2>");
+                var index = args.week - 1;
+                var link = temp[args.month][index].l;
+                var URL = temp[args.month][index].URL;
+                var a = newElement("a", { href: URL, class: "na" }, "<h2>" + args.week + "</h2>");
                 link.removeChild(link.childNodes[0]);
                 link.setAttribute("class", "link underline");
                 link.appendChild(a);

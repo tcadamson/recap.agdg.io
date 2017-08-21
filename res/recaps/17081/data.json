@@ -1,0 +1,551 @@
+{
+    "1502110267866": {
+        "game": "Mech Game I need to find a name for",
+        "name": "Dev name I need to find a name for",
+        "tools": "UE4, Blender, Gimp",
+        "web": "",
+        "scoring": "27 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Complete 3D pathfinding that seemingly works without an issue",
+            "+ Basic AI, which moves around, shoots at the player and stays dynamic when in range of the player",
+            "+ AI aims ahead of the player",
+            "- AI is way too harsh, aims perfectly",
+            "- Still no idea what the scenario and art direction will be, really stuck on that part"
+        ]
+    },
+    "1502110295303": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "scoring": "299 [x8.0] - 15 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Fixed the moving enemy type so it actually works, it ain't perfect though.",
+            "+ Various changes to the playing field; making the objects spawn closer, couple of visual changes, etc.",
+            "+ I have an idea for a title for the game finally.",
+            "- The feature creep is real",
+            "- I have no idea what to work on next."
+        ]
+    },
+    "1502110370214": {
+        "game": "The Black Hand",
+        "name": "ektomarch",
+        "tools": "Unity",
+        "web": "https://twitter.com/ektomarch",
+        "scoring": "10 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Boss code finished",
+            "+ Working on a possible multiplayer function"
+        ]
+    },
+    "1502110414850": {
+        "game": "Waves of Vapor",
+        "name": "MelonoDev",
+        "tools": "GM, PT-SAI",
+        "web": "melonodev.tumblr.com",
+        "scoring": "37 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Menu is done.",
+            "+ Boss still a mess, but less so.",
+            "- Busy with other things as well."
+        ]
+    },
+    "1502110629927": {
+        "game": "Ctesiphon",
+        "name": "Stomy",
+        "tools": "C++/OpenGL, Blender, Krita",
+        "web": "stomygame.tumblr.com",
+        "scoring": "160 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ The C++ rewrite continues",
+            "+ Fullscreen toggle with Alt+Enter",
+            "+ Loading and saving of settings",
+            "+ Streaming playback of ogg-vorbis files (no more mp3's)",
+            "+ Making a cut-down format for 3D models to replace g3db"
+        ]
+    },
+    "1502110986765": {
+        "game": "Ironmash!",
+        "name": "Norby",
+        "tools": "Unity, Paint.net, Inkscape",
+        "web": "",
+        "scoring": "573 [x10.0] - 21 streak",
+        "ext": ".png",
+        "progress": [
+            "+ I'm starting to enjoy making the new art",
+            "+ Almost half of the characters are redone",
+            "- I haven't coded anything in a while"
+        ]
+    },
+    "1502111409490": {
+        "game": "FTC",
+        "name": "RPG",
+        "tools": "UTY",
+        "web": "fleettacticalcommand.com",
+        "scoring": "22 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ ship items are in progress",
+            "+ new stories are written",
+            "+ figured out all the stats and stat scaling",
+            "- Artist A is feeling better",
+            "- Artist B has a new computer",
+            "- Programmer sent over demo version (WIP)",
+            "- Github doesn't do big files",
+            "- need to find a better way to do version control"
+        ]
+    },
+    "1502113003575": {
+        "game": "Project M",
+        "name": "Adam",
+        "tools": "Unity, Blender",
+        "web": "https://twitter.com/7TowersSoftware",
+        "scoring": "133 [x3.0] - 5 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ refined the movement animations",
+            "+ added the first laser/heat weapon",
+            "+ came up with a heal system I really like",
+            "- overall not that much progress this week"
+        ]
+    },
+    "1502113176502": {
+        "game": "Vampire's Bit",
+        "name": "VampireDev",
+        "tools": "Game Maker, Photoshop",
+        "web": "vampiredev.tumblr.com \u00b7 twitter.com/jcsvampire",
+        "scoring": "57 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Finished tweaking level generation code",
+            "+ Tweaks on villagers and hunters spawning system",
+            "+ Started replacing placeholder assets",
+            "+ Finished a new ending screen for the next demo",
+            "+ Slowly making more art",
+            "- Still a lot of placeholder stuff to replace",
+            "- Need to actually design more/better levels"
+        ]
+    },
+    "1502113343129": {
+        "game": "Pushy Cmulko",
+        "name": "Coppermoore",
+        "tools": "Pygame",
+        "web": "",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Started remaking the code from scratch",
+            "+ The graphics are like a billion times faster already",
+            "+ Started on HUD, portraits and some additional graphics",
+            "+ Terrain layer - in the future, this will be used for the levels to not only have regular snow terrain, but also water that you can drown in etc.",
+            "- Started remaking the code = need to reimplement everything that I had so far"
+        ]
+    },
+    "1502113599917": {
+        "game": "Totally not Castlevania",
+        "name": "Anon",
+        "tools": "Game Maker, Photoshop",
+        "web": "N/A",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".gif",
+        "progress": [
+            "+ Fixed jittering",
+            "+ Implemented new HUD in game",
+            "+ Started working on a pause/inventory screen",
+            "+ Made small changes to level design",
+            "- Slow progress",
+            "- Nothing interesting to show"
+        ]
+    },
+    "1502113871624": {
+        "game": "Karina heart (temp name)",
+        "name": "takkongguy",
+        "tools": "rpgm mv",
+        "web": "",
+        "scoring": "27 [x2.5] - 4 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Mostly drawings",
+            "+ finished a world map",
+            "+ finished drawing forest enemies",
+            "+ start doing other bosses and character portrait"
+        ]
+    },
+    "1502114227714": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "scoring": "1023 [x10.0] - 30 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Finished making warhammer attack animations",
+            "- Procrastinating too much"
+        ]
+    },
+    "1502116527878": {
+        "game": "Nox Striga",
+        "name": "Mez",
+        "tools": "Unity, Blender, Paint.Net, Gimp",
+        "web": "mezdritch (twitter/tumblr)",
+        "scoring": "113 [x5.0] - 9 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Mostly background work on the card design, proper way to do the mechanics, etc.",
+            "+ Reworked some templates, at this point its good enough.",
+            "+ New UI for the encounters, still needs tweaking.",
+            "+ Worked on deck creation (very basic at the moment)."
+        ]
+    },
+    "1502116643779": {
+        "game": "Trash game as in trash movie but its a game",
+        "name": "Augurusto",
+        "tools": "Paint.net,GM:S",
+        "web": "https://augurusto.tumblr.com and https://twitter.com/augurusto",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ programmed char movements",
+            "+ few more places",
+            "+ transition"
+        ]
+    },
+    "1502116940055": {
+        "game": "Kino-Clicker",
+        "name": "polisummer",
+        "tools": "Unity",
+        "web": "N/A",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "- Maya broke (lol) back to Blender",
+            "+ JP voices added",
+            "+ music added",
+            "+ store works",
+            "- not main project, shoulda been a jam game"
+        ]
+    },
+    "1502117002181": {
+        "game": "Within the Green",
+        "name": "Anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "scoring": "27 [x2.5] - 4 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ dialogue system updates",
+            "+ started changing melee combo sprites",
+            "- slow progress this week"
+        ]
+    },
+    "1502118572074": {
+        "game": "Helmet Head 64",
+        "name": "quasiberry",
+        "tools": "UE4/Maya/Zbrush",
+        "web": "quasiberry.tumblr.com<br>",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ added long jump and sideflip",
+            "+ added helmet for skidding and slicing",
+            "+ made an enemy model",
+            "- jumps still need more tweaking to feel right",
+            "- robot guy still untextured, grasshopper enemy textured but I don't like how it turned out"
+        ]
+    },
+    "1502119037720": {
+        "game": "Asteroids Rogue",
+        "name": "CowThing",
+        "tools": "Godot, Blender, Aseprite",
+        "web": "",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added basic enemy AI",
+            "- I should have made more progress"
+        ]
+    },
+    "1502120657631": {
+        "game": "Frog Fight Club (Temp Name)",
+        "name": "yamasakai",
+        "tools": "Unity, PS, Blender",
+        "web": "https://twitter.com/yamasakai | gloomgrooveundernight.tumblr.com",
+        "scoring": "54 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made UI for hp, stamina, sp",
+            "+ Made a few new monsters",
+            "- Overall didn't do much, these kinds of stuff take a few mins. Once I'm done with real life shit I'll be able to wrap this up in a few days"
+        ]
+    },
+    "1502122863760": {
+        "game": "Petite Witches",
+        "name": "Dwarfdev",
+        "tools": "Godot, Krita",
+        "web": "https://twitter.com/DwarfDev",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ cutscene player",
+            "+ intro cutscene graphics"
+        ]
+    },
+    "1502126987856": {
+        "game": "Good Night, Knight",
+        "name": "Knightdev",
+        "tools": "GM:S, Aseprite",
+        "web": "http://knightdev.tumblr.com/",
+        "scoring": "64 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added two more resources",
+            "+ Resources counters and animations",
+            "+ Ingredients spending system done",
+            "+ Potions refilling animation on resting",
+            "+ Working on a few sprites"
+        ]
+    },
+    "1502127552568": {
+        "game": "Cash_Out",
+        "name": "Untouch",
+        "tools": "GM:S",
+        "web": "http://cashoutgame.com",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ added hats that replace perks",
+            "+ fixed bugs caused by adding hats",
+            "+ fixed bugs caused by fixing bugs",
+            "+ also optimization (which caused more bugs)"
+        ]
+    },
+    "1502129578122": {
+        "game": "HACK the FBI",
+        "name": "vestigial",
+        "tools": "Unity",
+        "web": "@vestigialdev",
+        "scoring": "441 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "- Mobo died, and new one killed the Windows 10 license",
+            "+ Redid the sound randomizer, maybe put on asset store for free",
+            "+ Amped to be working again after a week on a laptop"
+        ]
+    },
+    "1502130838786": {
+        "game": "Another Tactics Card Game Thing",
+        "name": "",
+        "tools": "Unity, Aesprite",
+        "web": "",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Started game",
+            "+ Attack and Movement Radius",
+            "+ Grid Generation",
+            "- Idk what I'm doing"
+        ]
+    },
+    "1502133839487": {
+        "game": "Scrap Galaxy",
+        "name": "J3X",
+        "tools": "Unity 3D",
+        "web": "http://www.scrapgalaxy.com/ https://twitter.com/CatalopeGames",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Added character art for trucker and lamia characters.",
+            "+ Rebalanced weapons and speed calculations.",
+            "+ Fixed lots of GUI bugs.",
+            "- Have not posted progress in forever because busy with sidetrack projects."
+        ]
+    },
+    "1502134435661": {
+        "game": "[Placeholder Title]",
+        "name": "Ogier",
+        "tools": "GM:S, Aseprite",
+        "web": "https://twitter.com/Ogier_Dev https://ogierdev.tumblr.com",
+        "scoring": "222 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Gave boss 2 attacks",
+            "+ Adjusted gravity while rising when using ice based attacks",
+            "+ Re-added the boss timer, need to adjust its font so it doesn't look annoying",
+            "+ Air conditioning restored"
+        ]
+    },
+    "1502140264699": {
+        "game": "Devil Engine",
+        "name": "Shmoopdev",
+        "tools": "GMS,Photoshop,Aesprite",
+        "web": "shmoopdev.tumblr.com/",
+        "scoring": "823 [x10.0] - 26 streak",
+        "ext": ".png",
+        "progress": [
+            "+ More graphics and patterns for level 3",
+            "+ Doing a sound pass on level 2",
+            "+ Re-worked player input to be key rebind friendly (coming eventually)",
+            "- Sounds are hard"
+        ]
+    },
+    "1502140664564": {
+        "game": "When It Hits the Fan",
+        "name": "@trueyomic",
+        "tools": "Java + libgdx",
+        "web": "http://www.heartfeltgames.org/when-it-hits-the-fan",
+        "scoring": "20 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Better font",
+            "+ Internationalization/Localization support",
+            "+ All levels and all bosses are done",
+            "+ settings/prefs saved between sessions",
+            "+ Level Intros are more IN YOUR FACE",
+            "+ Boss Intros are more IN YOUR FACE",
+            "+ Mostly doing cleanup before release. Look for release within the year"
+        ]
+    },
+    "1502143761346": {
+        "game": "Kick-in'",
+        "name": "Kickindev",
+        "tools": "Gamemaker studio",
+        "web": "kickindev.tumblr.com",
+        "scoring": "523 [x10.0] - 20 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Player/enemy intro states done!",
+            "+ Finally got proper placeholders for the enemy's super attack and I'm pretty proud of it.",
+            "+ None of the enemy's states have white-box placeholders anymore!"
+        ]
+    },
+    "1502145661085": {
+        "game": "Project K2",
+        "name": "Anon",
+        "tools": "Unity, Maya, PS, Substance Painter",
+        "web": "https://kr0s.itch.io/project-k2-alpha",
+        "scoring": "523 [x10.0] - 20 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Made a flying drone rig. Flying enemies will now use a similar system, and they won't rely on navmesh anymore.",
+            "+ Implemented a story manager to script the events that will happen on a level. Every level will have a unique story manager.",
+            "+ Implemented access cards. Locked areas will require an access card to get in.",
+            "+ You can now exit the mainenance area only if you disable all the pipes. One of the perks of using a story manager. Also the displays in the entrance now work.",
+            "+ The small level from Demo Day 14 will be used as a temporary coin grab - I'm gonna put a shitload of coins there and teleport player to the level if a certain condition is met. For example, player gets 1000 coins in the game, or finds a secret area."
+        ]
+    },
+    "1502146042733": {
+        "game": "Cubedoku",
+        "name": "Blank",
+        "tools": "Unity",
+        "web": "n/a",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ UI now includes scene transitions, pause menu, and other improvements",
+            "+ Redid serialization to allow players to resume abandoned puzzles",
+            "- Still waiting on actual art"
+        ]
+    },
+    "1502146479431": {
+        "game": "Skylarks",
+        "name": "Mako",
+        "tools": "Rust, Logic, Blender, SDL2",
+        "web": "http://mako.itch.io/skylarks",
+        "scoring": "1143 [x10.0] - 54 streak",
+        "ext": ".png",
+        "progress": [
+            "+ New ships",
+            "+ Drafted more missions",
+            "+ Chipped away at lore",
+            "+ Didn't get hit by any trains"
+        ]
+    },
+    "1502175180904": {
+        "game": "Elemental Knight",
+        "name": "anon",
+        "tools": "Unity",
+        "web": "https://jasonpkgames.tumblr.com/",
+        "scoring": "311 [x3.0] - 5 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Working on the boat",
+            "+ Making a list of stuff I want to finish on that same day, actually keeping to it.",
+            "- Nothing really"
+        ]
+    },
+    "1502198453520": {
+        "game": "Arrowpit",
+        "name": "Phantomcorps",
+        "tools": "Game maker, Aseprite, Pulse boy, Srfx",
+        "web": "https://phantomcorps.itch.io/",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Working on Map system",
+            "+ Making a lots of sprites",
+            "- Gotta study and shit"
+        ]
+    },
+    "1502199914805": {
+        "game": "Unamed TRPG",
+        "name": "Gremolin",
+        "tools": "Unity",
+        "web": "none",
+        "scoring": "25 [x1.0]",
+        "ext": ".gif",
+        "progress": [
+            "+ Making first model",
+            "- Work deadline keeping me at work for this week,."
+        ]
+    },
+    "1502201894199": {
+        "game": "Bravely Fantasy: Persona Edition",
+        "name": "Anon",
+        "tools": "Monogame",
+        "web": "N/A",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ 3rd and final party member added",
+            "+ FINAL combat UI improvement",
+            "+ Added a system to customize skills your party members have",
+            "+ Enemy AI finished, 70% of the time does best possible decision, 30% of the time acts randomly",
+            "- A lot more art to be done"
+        ]
+    },
+    "1502204996825": {
+        "game": "Monogatari Something(?)(Placeholder)",
+        "name": "Sakuyoi",
+        "tools": "Unity, Blender, Aseprite, Krita",
+        "web": "https://sakuyoi.itch.io/",
+        "scoring": "5 [x1.0]",
+        "ext": "s.jpg",
+        "progress": [
+            "+ Perfected(?) modular environment spawn script",
+            "+ (TBI) Made game mechanics (like subway surfers) but im trying to modify it a bit ",
+            "+ (TBI) Textures on the buildings and other randomly generated environment things.",
+            "+ (TBI) GUI's and scoreboard",
+            "+ (TBI) Original music made by me?(ill try making music this time)",
+            "- I'm so pressured if i want to fucking dropout and just gamedev.. I really hate school... "
+        ]
+    },
+    "1502223897535": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "scoring": "381 [x9.0] - 17 streak",
+        "ext": ".png",
+        "progress": [
+            "+ All known rewind issues fixed",
+            "+ Lots of minor changes and fixes",
+            "+ Planned up a \"Panels\" system, the idea is that every UI element (like the map or menus) is a glass panel that slides into view and polarizes the screen's light",
+            "- More ideas than actual doings"
+        ]
+    }
+}

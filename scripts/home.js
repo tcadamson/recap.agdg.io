@@ -33,11 +33,12 @@ function buildLinks()
 	var lower = document.getElementById("lower");
 	var block = newElement("div", { class: "content block" });
 	var links = monthLinks(date);
-	var buttons = newElement("div", { class: "lhome" });
+	var buttons = newElement("div", { class: "list" });
     block.appendChild(newElement("div", { class: "month" }, "<h2>" + date.month + "</h2>"));
     block.appendChild(links);
-    buttons.appendChild(newElement("a", { href: "http://recap.agdg.io/timeline", class: "na underline" }, "<h2>timeline</h2>"));
-    buttons.appendChild(newElement("a", { href: "http://recap.agdg.io/info", class: "na underline" }, "<h2>info</h2>"));
+    buttons.appendChild(newElement("a", { href: "http://recap.agdg.io/timeline", class: "na link underline" }, "<h2>timeline</h2>"));
+    buttons.appendChild(newElement("a", { href: "http://recap.agdg.io/info", class: "na link underline" }, "<h2>info</h2>"));
+    buttons.appendChild(newElement("a", { href: "http://recap.agdg.io/scores", class: "na link underline" }, "<h2>scores</h2>"));
     block.appendChild(buttons);
     lower.appendChild(block);
 }

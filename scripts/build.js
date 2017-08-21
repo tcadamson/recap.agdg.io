@@ -1,22 +1,34 @@
 var framew = 416;
 var frameh = 234;
 var detailh = 100;
+var block = 2;
 var recap;
 var week;
+var month;
+var year;
+var id;
 
 $(document).ready(function()
 {
     recap = getParameter("id");
     if (recap == null || recap == "") home();
-    week = recap.charAt(4);
-    jsonLoad(function(data)
+    week = recap.charAt(block*2);
+    month = months[parseInt(recap.substr(block, block)) - 1];
+    year = recap.substr(0, block);
+    attachCSS();
+    jsonLoad("res/recaps/" + recap + "/data.json", function(data)
     {
         build(data);
         correctImages();
+        $("p").linkify({
+            target: "_blank",
+            className: "na"
+        });
     });
 });
 
-function getParameter(name) {
+function getParameter(name)
+{
     name = name.replace(/[\[\]]/g, "\\$&");
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)");
     var results = regex.exec(window.location.href);
@@ -25,26 +37,18 @@ function getParameter(name) {
     return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
 
-function jsonLoad(callback)
+function attachCSS()
 {
-    $.ajax({
-        url: "res/recaps/" + recap + "/data.json",
-        dataType: "json",
-        success: function(data)
-        {
-            callback(data);
-        },
-        error: function(data)
-        {
-            home();
-        }
-    });
+    var css = document.createElement("link");
+    css.setAttribute("rel", "stylesheet");
+    css.setAttribute("href", "res/css/" + recap.substr(0, block*2) + ".css");
+    document.head.appendChild(css);
 }
 
 function loadItemContents(entry, parts)
 {
     parts.heading.appendChild(newElement("h2", {}, entry.game));
-    parts.contents.appendChild(newElement("p", { id: "details" }, "DEV&emsp;" + entry.name + "<br>TOOLS&emsp;" + entry.tools + "<br>WEB&emsp;" + entry.web));
+    parts.contents.appendChild(newElement("p", { id: "details" }, "DEV&emsp;" + entry.name + "<br>TOOLS&emsp;" + entry.tools + "<br>WEB&ensp;&nbsp; " + entry.web));
     var list = "PROGRESS";
     for (var i = 0; i < entry.progress.length; i++)
     {
@@ -59,8 +63,8 @@ function build(jsonData)
     var header = newElement("div", { class: "header" });
     var text = newElement("div", { class: "text" });
     var grid = newElement("div", { class: "grid" });
-    header.appendChild(newElement("img", { src: "res/agdg.png", alt: "JLMG" }));
-    text.appendChild(newElement("h1", {}, "JULY 2017"));
+    header.appendChild(newElement("img", { src: "res/agdg" + recap.substr(0, block*2) + ".png", alt: "JLMG" }));
+    text.appendChild(newElement("h1", {}, month.toUpperCase() + " 20" + year));
     text.appendChild(newElement("h1", { id: "week" }, "WEEK " + week));
     header.appendChild(text);
     for (var id in jsonData)
