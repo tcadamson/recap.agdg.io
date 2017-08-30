@@ -1,0 +1,500 @@
+{
+    "1503914269179": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "scoring": "1173 [x10.0] - 33 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Created particle effects for the impact of the warhammer charged attack",
+            "+ Added ability for an attack to spawn prefabs at any point in the attack animation"
+        ]
+    },
+    "1503914885439": {
+        "game": "Un named top down game",
+        "name": "Jofer (code) and Fresh (art)",
+        "tools": "Unity",
+        "web": "https://twitter.com/JofersGames & https://twitter.com/PolykinDev",
+        "scoring": "5 [x1.0]",
+        "ext": ".gif",
+        "progress": [
+            "+ Players are sliced upon death"
+        ]
+    },
+    "1503915004770": {
+        "game": "Negativa Poetica",
+        "name": "Lintire / Template88, plus NeilOSG, 4cat, Superbastard for sound man the list goes on",
+        "tools": "Godot, Piskel, Audacity, Milkytracker, Fruityloops/Genny (?), Photoshop, some other shit.",
+        "web": "n/a",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Bunch of shit done. Entirety of first level either implemented or placeholdered. I'm not going to post the whole changelog, we'd be here a while.",
+            "- Local minimart started charging like twice as much for a 40 pack of Bonds, the pricks.",
+            "- The list of programs and people involved is more impressive than the game."
+        ]
+    },
+    "1503915342752": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame",
+        "web": "https://twitter.com/LKTheDev",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Implemented inverse kinematics for the player and enemy arms.",
+            "+ Reworked the AI so they dynamically swing their swords towards the player. Also gave them the ability to dodge and block player attacks.",
+            "+ Made so that the player can be cut into gibs too"
+        ]
+    },
+    "1503915382671": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "scoring": "426 [x9.5] - 18 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Working on a new enemy type",
+            "+ A couple of visual tweaks",
+            "- Gave up on trying to fix the wave generation system because every idea I had didn't work"
+        ]
+    },
+    "1503915500975": {
+        "game": "Jappu -The heart of Karinna-",
+        "name": "takkongguy",
+        "tools": "rpgm mv",
+        "web": "http://takkongguy-blog.tumblr.com/",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Finally decide game name",
+            "+ Finished 60% of the scenes",
+            "+ Finished all npc dialogue"
+        ]
+    },
+    "1503916585920": {
+        "game": "Petite Witches",
+        "name": "Dwarfdev",
+        "tools": "Godot, Krita",
+        "web": "https://twitter.com/DwarfDev",
+        "scoring": "59 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ finished in-game dialogue system.",
+            "- put aside font creation for a time being"
+        ]
+    },
+    "1503917584329": {
+        "game": "Khryse",
+        "name": "Khryse-dev",
+        "tools": "UE4",
+        "web": "https://khryse-dev.tumblr.com/",
+        "scoring": "34 [x2.0] - 3 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Added airstrafe and airhop",
+            "+ added a bunch of visual stuff, like hook projectile and airdash particles",
+            "+ finished up helmet material",
+            "+ added more control to the wallrun",
+            "+ added Enum check for player movemement",
+            "- Input Buffer stuff is still not ready for 4.17",
+            "- Material fuckery took way too long"
+        ]
+    },
+    "1503918064084": {
+        "game": "FTC",
+        "name": "RPG",
+        "tools": "UTY",
+        "web": "fleettacticalcommand.com",
+        "scoring": "59 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Character Generator WIP",
+            "+ Tutorial WIP",
+            "+ New music tracks",
+            "- Second Programmer is AWOL",
+            "- Starting a second business so less time for Game Dev"
+        ]
+    },
+    "1503918551557": {
+        "game": "Little Red Hiding Hood",
+        "name": "Squaredev",
+        "tools": "Unity, Blender, Photoshop",
+        "web": "squaredev.tumblr.com",
+        "scoring": "15 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Added level clear screen and game over screen",
+            "+ Wolves now perform a dash/tackle/jump attack when close to the player",
+            "- still a bit wonky, some times the attack stops short even if it shouldn't",
+            "+ added music with crossfading effect for stealth and chase",
+            "+ snek is helping with designing the level",
+            "- wolves kick the same rock forever",
+            "+ it's amusing to watch so I'll probably keep it",
+            "- been so long since the last recap, I don't know why I'm bothering",
+            "- still not sure if the game is actually fun to play"
+        ]
+    },
+    "1503918794655": {
+        "game": "Ctesiphon",
+        "name": "Stomy",
+        "tools": "C++/OpenGL, Blender, Krita",
+        "web": "stomygame.tumblr.com",
+        "scoring": "189 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ The C++ rewrite continues",
+            "+ Bullet Physics debug drawing implementation",
+            "+ Bullet Physics world model loaded",
+            "+ GLSL-style matrix operations",
+            "+ World once again rendering correctly",
+            "+ Pause menu reimplemented",
+            "+ Flying camera movement",
+            "+ Currently porting collision system"
+        ]
+    },
+    "1503918982441": {
+        "game": "Cross Square",
+        "name": "Squaredev",
+        "tools": "Unity, Photoshop",
+        "web": "squaredev.tumblr.com",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Added very primitive AI",
+            "- took way longer than it should have",
+            "+ improved the map generation a bit",
+            "+ fixed a bug where lines could be shot in the wrong direction",
+            "- another similar bug still appears every now and then and I can't understand why",
+            "+ codebro kry offered to add online multiplayer later on"
+        ]
+    },
+    "1503919933266": {
+        "game": "SFTL : Slightly Faster Than light [working title]",
+        "name": "AZ",
+        "tools": "Godot",
+        "web": "n/a",
+        "scoring": "5 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ Selection box",
+            "+ FSM",
+            "+ Pathfinding",
+            "+ Draggable and Selectable behavior",
+            "- Didn't get enough sleep for 4 days"
+        ]
+    },
+    "1503920038974": {
+        "game": "Mech Game I need to find a name for",
+        "name": "dev name i need to find a name for",
+        "tools": "ue4, blender, gimp",
+        "web": "",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ New placeholder mecha, with an IK rig, which I'll be using for Demo Day to prevent myself from moping around from my lack of good looking mechas.",
+            "+ Animations for said placeholder",
+            "+ Animation state machine",
+            "+ More VFX : Visual cues for when the mecha can fly again after being knocked, bullets, shield, also accidentally made vapor",
+            "+ Changed Dash/Melee attacks to properly move with the physics instead of interpolating positions",
+            "+ Blocking is in, no animation for it yet",
+            "- No real gameplay changes",
+            "- One of the functions critical to the shield effect doesn't work if I put a branch before it"
+        ]
+    },
+    "1503921252896": {
+        "game": "Pushy Cmulko",
+        "name": "Coppermoore",
+        "tools": "Pygame",
+        "web": "",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Worked on pathfinding a lot, have multiple algorithms",
+            "+ Tried getting Cython to work for eternity",
+            "- Going to need an eternity more"
+        ]
+    },
+    "1503921950716": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "scoring": "523 [x10.0] - 20 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Settings, progress and map fog are now saved and loaded",
+            "+ Initial level positions are recorded now too based on the player's relative position to the camera, it already worked like that in the old version of the game but here's a short explanation for those who don't know: reaching a Goal keeps the player's relative position to the camera which allows them to start in slightly different positions in the level, if there's a Wall in their position then it permanently becomes a Ghost Wall (the dark gray block in the screenshot) which lets the player pass through it and potentially open up new paths",
+            "+ Fullscreen toggle"
+        ]
+    },
+    "1503923849264": {
+        "game": "Within the Green",
+        "name": "Anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ replaced melee attack animation 1",
+            "+ fiddled with magic attack animation",
+            "+ worked on char portraits",
+            "- procrastinated and uni assignments will slow progress over the next weeks"
+        ]
+    },
+    "1503926337295": {
+        "game": "Asteroids Rogue",
+        "name": "CowThing",
+        "tools": "Godot, Blender, Aseprite",
+        "web": "",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Levels can now be finished, and a new level is loaded",
+            "+ Level creation is now its own scene, so I can create different types of levels"
+        ]
+    },
+    "1503930559377": {
+        "game": "Ironmash!",
+        "name": "Norby",
+        "tools": "Unity, Paint.net, Inkscape",
+        "web": "",
+        "scoring": "723 [x10.0] - 24 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Character sprites finally completed, moving onto adding new skills"
+        ]
+    },
+    "1503936827650": {
+        "game": "Nox Striga",
+        "name": "Mez",
+        "tools": "Unity, Blender, Paint.Net, Gimp",
+        "web": "mezdritch (twitter/tumblr)",
+        "scoring": "195 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Few tweaks to the cards (Frames, numbers, shorter descriptions, etc.).",
+            "+ Simplified the design of some mechanics and game logic before their implementation.",
+            "- Slow progress, mostly design."
+        ]
+    },
+    "1503936834200": {
+        "game": "Helmet Head 64",
+        "name": "quasiberry",
+        "tools": "UE4/Maya/Zbrush",
+        "web": "quasiberry.tumblr.com<br>",
+        "scoring": "27 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added Ground Pound and Super Ground Pound",
+            "+ Added two types of breakable crates",
+            "+ Added visual flair for the Spin Jump",
+            "+ Started work on the first level"
+        ]
+    },
+    "1503942944783": {
+        "game": "Lowinzlo Game",
+        "name": "Lowinzlo",
+        "tools": "Unity, Photoshop",
+        "web": "https://lowinzlogame.tumblr.com/",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Changed the helper mechanic to a character change mechanic",
+            "+ changed the rendering method to more pixel accurate"
+        ]
+    },
+    "1503944584559": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "scoring": "5 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ Movement and event interaction polished",
+            "+ Fixed combat bugs",
+            "+ Dialogue art",
+            "+ NPC art"
+        ]
+    },
+    "1503948151217": {
+        "game": "Unknown World",
+        "name": "Dewdneym",
+        "tools": "RPG Maker VX Ace",
+        "web": "dewdneym.tumblr.com",
+        "scoring": "20 [x1.0]",
+        "ext": ".gif",
+        "progress": [
+            "+ Made stats and attack patterns for new monsters",
+            "+ Balance testing said monsters",
+            "+ Working on a new sidequest",
+            "+ Completed tileset for next major town"
+        ]
+    },
+    "1503949122627": {
+        "game": "Kick-in'",
+        "name": "Kickindev",
+        "tools": "Gamemaker Studio",
+        "web": "kickindev.tumblr.com",
+        "scoring": "673 [x10.0] - 23 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Numerous tweaks to enemy guard-swapping behavior",
+            "+ Many small bugfixes, most involving animations and hitreg",
+            "+ Redid enemy rising special attack. Tweaked parameters that cause it to occur, and made the enemy vulnerable during part of its windup.",
+            "+ Began proper work on the second enemy fighter. Bare-bones work on their states have begun and the game doesn't crash when you go to their room I guess?",
+            "+ Began the most basic of basic work on sound effects.",
+            "+ Actually a pretty productive week and weekend, all things considered."
+        ]
+    },
+    "1503951134258": {
+        "game": "Devil Engine",
+        "name": "shmoopdev",
+        "tools": "GMS,Photoshop,Aesprite",
+        "web": "shmoopdev.tumblr.com/",
+        "scoring": "973 [x10.0] - 29 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Stage 3 miniboss mostly done",
+            "+ More sound effects",
+            "+ Lots of miscellaneous issues fixed",
+            "+ Updated tutorial and game over tips for new mechanics",
+            "+ Added a new death animation",
+            "+ Going into full pre-demoday polish mode",
+            "- Going to be gone next monday, might miss recap :/"
+        ]
+    },
+    "1503955863049": {
+        "game": "Vampire's Bit",
+        "name": "VampireDev",
+        "tools": "Game Maker, Photoshop",
+        "web": "vampiredev.tumblr.com \u00b7 twitter.com/jcsvampire",
+        "scoring": "86 [x3.0] - 5 streak",
+        "ext": ".gif",
+        "progress": [
+            "+ Working on new attack animations for Elzie",
+            "+ Got an interesting idea for bonus stages",
+            "+ Started designing a new background",
+            "- Progress is slowing down a lot thanks to unrelated issues"
+        ]
+    },
+    "1503975145029": {
+        "game": "Cubedoku",
+        "name": "Blank",
+        "tools": "Unity",
+        "web": "n/a",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Moved number system over to TextMeshes instead of decals, allowing more control over fonts, colors, and the cube's model",
+            "+ Got achievements and leaderboards set up on Steamwork's side",
+            "- Holy shit where did the week go."
+        ]
+    },
+    "1503975795896": {
+        "game": "Rewound",
+        "name": "johzu",
+        "tools": "GM Studio 1",
+        "web": "hypersnow.tumblr.com + twitter.com/hypersnow_dev",
+        "scoring": "10 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Improved facial expressions",
+            "+ New electric attack",
+            "+ Worked on fleshing out the village",
+            "- It's hot and I don't feel like working"
+        ]
+    },
+    "1503976411962": {
+        "game": "Skylarks",
+        "name": "Mako",
+        "tools": "Rust, Logic, Blender, SDL2",
+        "web": "http://mako.itch.io/skylarks",
+        "scoring": "1293 [x10.0] - 57 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Moved some font/GUI stuff to a separate library",
+            "+ Working on rewriting the renderer with a different backend",
+            "- Started making another programming language"
+        ]
+    },
+    "1503978136563": {
+        "game": "Spaceship Crew Self-Defense Simulator",
+        "name": "chaikaDev",
+        "tools": "GMS 2",
+        "web": "",
+        "scoring": "160 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Fixed a bunch of really frustrating bugs related to the mini-game, pathfinding and inventory UI",
+            "+ Implemented a new version of the main character (from a new artist)",
+            "- motivation is really low"
+        ]
+    },
+    "1503983097910": {
+        "game": "Pangea Drifters",
+        "name": "HomoDev",
+        "tools": "UE4",
+        "web": "",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Lots of new models",
+            "+ almost have mounts working"
+        ]
+    },
+    "1504023336921": {
+        "game": "Frog Fight Club (Temp Name)",
+        "name": "yamasakai",
+        "tools": "Unity, Blender, PS",
+        "web": "twitter.com/yamasakai | gloomgrooveundernight.tumblr.com",
+        "scoring": "106 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Implemented a state machine for enemies behaviors",
+            "+ Just need to start writing and give enemies their respective behaviors",
+            "+ redesigned, 2 enemy"
+        ]
+    },
+    "1504027677392": {
+        "game": "Arrowpit",
+        "name": "Phantomcorps",
+        "tools": "Game maker, Aseprite, Pulse boy, Sfrx",
+        "web": "https://phantomcorps.itch.io/",
+        "scoring": "113 [x5.0] - 9 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ character sprites WIP",
+            "+ boss attack mechanic OK",
+            "+ HUD mechanic OK",
+            "- Issue with the random generation of rooms",
+            "- Gotta remake room sprites"
+        ]
+    },
+    "1504029526110": {
+        "game": "Tentacle Massage",
+        "name": "Unknown",
+        "tools": "Unity 3D, Oculus Rift",
+        "web": "https://gamejolt.com/games/TentacleMassage/279411",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Adding pixelated shader covering up naughty parts. Somehow this makes the game look even more lewd."
+        ]
+    },
+    "1504056258577": {
+        "game": "HACK the FBI",
+        "name": "vestigialdev",
+        "tools": "Unity",
+        "web": "@vestigialdev",
+        "scoring": "463 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Learned to ffmpeg and made a big long gameplay video",
+            "+ memdump/memory forensics was surprisingly easy to make"
+        ]
+    }
+}

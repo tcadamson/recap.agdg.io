@@ -75,6 +75,7 @@ h1#week {
 	width: 85%;
 	height: 78px;
 	margin: 0 auto;
+	padding: 10px 0 10px 0;
 	text-transform: uppercase;
 	display: table;
 	text-align: center;
@@ -104,6 +105,7 @@ h1#week {
 	min-height: 326px;
 	display: flex;
     flex-direction: column;
+    word-wrap: break-word;
 	border-radius: 15px 15px 0 0;
 }
 

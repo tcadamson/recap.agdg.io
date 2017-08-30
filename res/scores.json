@@ -4,68 +4,68 @@
         "mult": "1.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "29"
+        "inactive": "30"
     },
     "23/Prometheus": {
         "score": "257",
         "mult": "7.0",
         "streak": "19",
         "reset": "-1",
-        "inactive": "18"
+        "inactive": "19"
     },
     "Frost": {
         "score": "25",
         "mult": "1.0",
         "streak": "1",
-        "reset": "1",
-        "inactive": "0"
+        "reset": "0",
+        "inactive": "1"
     },
     "Catgirl Pool Party": {
         "score": "49",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "6"
+        "inactive": "7"
     },
     "Rune Revolver": {
         "score": "66",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "11"
+        "inactive": "12"
     },
     "Metanoia: The Sacrifice": {
         "score": "52",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "21"
+        "inactive": "22"
     },
     "Grand Classic (name tentative)": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "30"
+        "inactive": "31"
     },
     "Autumn\u2019s Gesture": {
         "score": "47",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "17"
+        "inactive": "18"
     },
     "Elements Torn": {
         "score": "32",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "Ctesiphon": {
-        "score": "167",
-        "mult": "2.0",
-        "streak": "3",
+        "score": "177",
+        "mult": "2.5",
+        "streak": "4",
         "reset": "1",
         "inactive": "0"
     },
@@ -74,19 +74,19 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "30"
+        "inactive": "31"
     },
     "NipNip": {
         "score": "165",
         "mult": "6.0",
         "streak": "11",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "Vampire's Bit": {
-        "score": "64",
-        "mult": "2.0",
-        "streak": "3",
+        "score": "74",
+        "mult": "2.5",
+        "streak": "4",
         "reset": "1",
         "inactive": "0"
     },
@@ -94,41 +94,41 @@
         "score": "326",
         "mult": "3.5",
         "streak": "6",
-        "reset": "1",
-        "inactive": "0"
+        "reset": "0",
+        "inactive": "1"
     },
     "Slimepix": {
         "score": "44",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "23"
+        "inactive": "24"
     },
     "Project Murder Party": {
         "score": "121",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "Pant(r)y Raid": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "29"
+        "inactive": "30"
     },
     "Tempest": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "30"
+        "inactive": "31"
     },
     "Project M": {
-        "score": "148",
-        "mult": "3.5",
-        "streak": "6",
+        "score": "165",
+        "mult": "4.0",
+        "streak": "7",
         "reset": "1",
         "inactive": "0"
     },
@@ -137,33 +137,33 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Mech Game": {
         "score": "20",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "28"
+        "inactive": "29"
     },
     "Monolith": {
         "score": "703",
         "mult": "10.0",
         "streak": "47",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "untitled danmaku": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "30"
+        "inactive": "31"
     },
     "Skylarks": {
-        "score": "1193",
+        "score": "1243",
         "mult": "10.0",
-        "streak": "55",
+        "streak": "56",
         "reset": "1",
         "inactive": "0"
     },
@@ -172,40 +172,40 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "21"
+        "inactive": "22"
     },
     "Mercenary Leto": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "30"
+        "inactive": "31"
     },
     "[Placeholder Title]": {
-        "score": "222",
-        "mult": "1.5",
-        "streak": "2",
-        "reset": "0",
-        "inactive": "1"
+        "score": "227",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
     },
     "God is a Cube: Nanomachines Rising": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "29"
+        "inactive": "30"
     },
     "Scavenge": {
         "score": "64",
         "mult": "3.5",
         "streak": "8",
         "reset": "-1",
-        "inactive": "25"
+        "inactive": "26"
     },
     "Ghost Knight Victis": {
-        "score": "1073",
+        "score": "1123",
         "mult": "10.0",
-        "streak": "31",
+        "streak": "32",
         "reset": "1",
         "inactive": "0"
     },
@@ -214,19 +214,19 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "30"
+        "inactive": "31"
     },
     "Ancient Saga": {
         "score": "74",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "9"
+        "inactive": "10"
     },
     "Spaceship Crew Self-Defense Simulator": {
-        "score": "148",
-        "mult": "1.0",
-        "streak": "1",
+        "score": "153",
+        "mult": "1.5",
+        "streak": "2",
         "reset": "1",
         "inactive": "0"
     },
@@ -235,278 +235,278 @@
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "11"
+        "inactive": "12"
     },
     "RAD Ross": {
         "score": "67",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "VikinGirl RPG": {
         "score": "40",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "28"
+        "inactive": "29"
     },
     "Throbot": {
         "score": "97",
         "mult": "2.5",
         "streak": "18",
         "reset": "-1",
-        "inactive": "27"
+        "inactive": "28"
     },
     "Clarent": {
         "score": "92",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "25"
+        "inactive": "26"
     },
     "Not a School Shooter": {
         "score": "35",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "30"
+        "inactive": "31"
     },
     "Cybership": {
         "score": "79",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "25"
+        "inactive": "26"
     },
     "wizMUD": {
         "score": "37",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "23"
+        "inactive": "24"
     },
     "Wicked Charm": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "29"
+        "inactive": "30"
     },
     "jamos": {
         "score": "528",
         "mult": "10.0",
         "streak": "20",
         "reset": "-1",
-        "inactive": "7"
+        "inactive": "8"
     },
     "Fungus Amungus": {
         "score": "91",
         "mult": "4.5",
         "streak": "8",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Futacubi": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "29"
+        "inactive": "30"
     },
     "Untitled Campfire Game": {
         "score": "39",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "25"
+        "inactive": "26"
     },
     "Whimp the Bold": {
-        "score": "52",
-        "mult": "1.5",
-        "streak": "2",
-        "reset": "-1",
-        "inactive": "6"
+        "score": "57",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
     },
     "Everwell": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "28"
+        "inactive": "29"
     },
     "Low Lands": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "29"
+        "inactive": "30"
     },
     "Apotheosis": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "16"
+        "inactive": "17"
     },
     "Autumn Vale": {
-        "score": "30",
-        "mult": "1.5",
-        "streak": "2",
-        "reset": "-1",
-        "inactive": "2"
+        "score": "35",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
     },
     "Comfy Kids": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "Ursa Maior": {
         "score": "27",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "25"
+        "inactive": "26"
     },
     "RAVAGER (working title)": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "27"
+        "inactive": "28"
     },
     "Space Dementia": {
         "score": "463",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "3"
+        "inactive": "4"
     },
     "Redlight": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "8"
+        "inactive": "9"
     },
     "A Smol RPG": {
         "score": "76",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "Project Dash": {
         "score": "39",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Matter of Business": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "27"
+        "inactive": "28"
     },
     "Project Rocket": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "28"
+        "inactive": "29"
     },
     "Path Finder": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "28"
+        "inactive": "29"
     },
     "32-Adventure": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "Jofers Game": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "27"
+        "inactive": "28"
     },
     "Comfort of your own home": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "Space Corgi": {
         "score": "15",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "mech game": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "21"
+        "inactive": "22"
     },
     "Infraction": {
         "score": "71",
         "mult": "4.0",
         "streak": "7",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "Conscription": {
         "score": "27",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "23"
+        "inactive": "24"
     },
     "Spooky Houz": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "[shooty game mcgee]": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "MoonQuest": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Tribute to the Fallen Nodev": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "Devil Engine": {
-        "score": "873",
+        "score": "923",
         "mult": "10.0",
-        "streak": "27",
+        "streak": "28",
         "reset": "1",
         "inactive": "0"
     },
@@ -515,75 +515,75 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "GUNCAT": {
         "score": "54",
         "mult": "3.5",
         "streak": "6",
         "reset": "-1",
-        "inactive": "21"
+        "inactive": "22"
     },
     "2D Dogfighting": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "26"
+        "inactive": "27"
     },
     "Tiny Siege": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "25"
+        "inactive": "26"
     },
     "Heavy Frame AEGEUS": {
         "score": "22",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "21"
+        "inactive": "22"
     },
     "MoGiSho (Moth Girl Shooter)": {
         "score": "284",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "5"
+        "inactive": "6"
     },
     "/AGDG/ Bowling": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "25"
+        "inactive": "26"
     },
     "Armor Kings": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Yet Another Monstergirl Platformer": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "23"
+        "inactive": "24"
     },
     "Neon Knights": {
         "score": "180",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "8"
+        "inactive": "9"
     },
-    "HACK the F.B.I.": {
-        "score": "446",
-        "mult": "1.5",
-        "streak": "2",
+    "HACK the FBI": {
+        "score": "453",
+        "mult": "2.0",
+        "streak": "3",
         "reset": "1",
         "inactive": "0"
     },
@@ -592,159 +592,159 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "BLOODRUSH": {
         "score": "15",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "16"
+        "inactive": "17"
     },
     "Hemoglobin": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "WOLVES": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Jinzo": {
         "score": "72",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Waves of Vapor": {
-        "score": "37",
-        "mult": "2.0",
-        "streak": "3",
-        "reset": "0",
-        "inactive": "1"
+        "score": "42",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
     },
     "tanks": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Unnamed Pixel Platformer": {
         "score": "27",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "4"
+        "inactive": "5"
     },
     "When It Hits the Fan": {
         "score": "20",
         "mult": "1.0",
         "streak": "1",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "unnamedbullethell": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Unnamed RPG": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Dregs": {
         "score": "35",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "Unobserved": {
         "score": "32",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "19"
+        "inactive": "20"
     },
     "3DS FPS (WIP Title)": {
         "score": "81",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "You Are (Not) The Hero": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Arborgore": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "24"
+        "inactive": "25"
     },
     "Nebulous (working title)": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Untitled Cabal Shooter": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Good Night, Knight": {
         "score": "64",
         "mult": "3.5",
         "streak": "6",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "Tuneism": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Project Sunshine (Working Title)": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "Rewound": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "22"
+        "inactive": "23"
     },
     "Ironmash!": {
-        "score": "623",
+        "score": "673",
         "mult": "10.0",
-        "streak": "22",
+        "streak": "23",
         "reset": "1",
         "inactive": "0"
     },
@@ -753,61 +753,61 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "9"
+        "inactive": "10"
     },
     "House Cleaner": {
         "score": "39",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "shitgame": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "3D FPS": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "21"
+        "inactive": "22"
     },
     "Super John Spellway's Actual Fantasy Football 93' Turbo Edition G-X+ (Working Title)": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "21"
+        "inactive": "22"
     },
     "Legacy Code": {
         "score": "140",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "5"
+        "inactive": "6"
     },
     "Cybervania": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "Project K2": {
         "score": "523",
         "mult": "10.0",
         "streak": "20",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "Kick-in'": {
-        "score": "573",
+        "score": "623",
         "mult": "10.0",
-        "streak": "21",
+        "streak": "22",
         "reset": "1",
         "inactive": "0"
     },
@@ -816,26 +816,26 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "Degenerogue": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "20"
+        "inactive": "21"
     },
     "The Telkari Descent": {
         "score": "91",
         "mult": "4.5",
         "streak": "8",
         "reset": "-1",
-        "inactive": "19"
+        "inactive": "20"
     },
     "Harmon:i:c": {
-        "score": "426",
-        "mult": "9.5",
-        "streak": "18",
+        "score": "473",
+        "mult": "10.0",
+        "streak": "19",
         "reset": "1",
         "inactive": "0"
     },
@@ -844,26 +844,26 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "17"
+        "inactive": "18"
     },
     "Logic(working title)": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "16"
+        "inactive": "17"
     },
     "PixelBrothel": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "16"
+        "inactive": "17"
     },
     "Bullet Hell Lane Shooter": {
-        "score": "339",
-        "mult": "8.5",
-        "streak": "16",
+        "score": "381",
+        "mult": "9.0",
+        "streak": "17",
         "reset": "1",
         "inactive": "0"
     },
@@ -872,222 +872,222 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "15"
+        "inactive": "16"
     },
     "Chronospira": {
         "score": "15",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "11"
+        "inactive": "12"
     },
     "Project Hound": {
         "score": "15",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "11"
+        "inactive": "12"
     },
     "Paper Mario Fangame": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "12"
+        "inactive": "13"
     },
     "Kugelblitz": {
         "score": "39",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "dung___": {
         "score": "39",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "Adveschestri": {
         "score": "113",
         "mult": "5.0",
         "streak": "9",
         "reset": "-1",
-        "inactive": "11"
+        "inactive": "12"
     },
     "Jolly Golf": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "14"
+        "inactive": "15"
     },
     "Four's Journey": {
         "score": "39",
         "mult": "3.0",
         "streak": "5",
         "reset": "-1",
-        "inactive": "9"
+        "inactive": "10"
     },
     "Geoya": {
         "score": "91",
         "mult": "4.5",
         "streak": "8",
         "reset": "-1",
-        "inactive": "6"
+        "inactive": "7"
     },
     "MML": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "Genokids": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "Explorer": {
         "score": "32",
         "mult": "1.0",
         "streak": "1",
-        "reset": "1",
-        "inactive": "0"
+        "reset": "0",
+        "inactive": "1"
     },
     "BunnySmasher (Placeholder title);": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "Untitled VR TCG": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "13"
+        "inactive": "14"
     },
     "Seasons Past": {
         "score": "118",
         "mult": "5.0",
         "streak": "9",
         "reset": "-1",
-        "inactive": "2"
+        "inactive": "3"
     },
     "Unnamed Yankee Game": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "12"
+        "inactive": "13"
     },
     "Gunsun Zeros": {
         "score": "20",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "6"
+        "inactive": "7"
     },
     "BUFFER_CRF": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "12"
+        "inactive": "13"
     },
     "Paper Bugs": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "7"
+        "inactive": "8"
     },
     "LynxVania": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "Data Purge": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "11"
+        "inactive": "12"
     },
     "DIPswitch": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "11"
+        "inactive": "12"
     },
     "Unnameable fighting game": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "9"
+        "inactive": "10"
     },
     "Sim Loli": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "Mirklings": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "I Can't Think Of A Good Name For This Game": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "Unnamed 'Squidward Head' Unity RPG": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "10"
+        "inactive": "11"
     },
     "Mega Penguin Sphere": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "7"
+        "inactive": "8"
     },
     "Island of 1000 Crabs": {
         "score": "27",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "6"
+        "inactive": "7"
     },
     "sports": {
         "score": "27",
         "mult": "2.5",
         "streak": "4",
         "reset": "-1",
-        "inactive": "6"
+        "inactive": "7"
     },
     "Nox Striga": {
-        "score": "138",
-        "mult": "5.5",
-        "streak": "10",
+        "score": "165",
+        "mult": "6.0",
+        "streak": "11",
         "reset": "1",
         "inactive": "0"
     },
@@ -1096,47 +1096,47 @@
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "7"
+        "inactive": "8"
     },
     "Monster Tactics": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "8"
+        "inactive": "9"
     },
     "Bravely Fantasy: Persona Edition": {
         "score": "91",
         "mult": "4.5",
         "streak": "8",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "Metrognome": {
         "score": "22",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "6"
+        "inactive": "7"
     },
     "Still Not Dead": {
         "score": "22",
         "mult": "1.0",
         "streak": "1",
-        "reset": "1",
-        "inactive": "0"
+        "reset": "0",
+        "inactive": "1"
     },
     "FNW": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "7"
+        "inactive": "8"
     },
-    "Fight Club Froggerz (Temp Name)": {
-        "score": "69",
-        "mult": "3.5",
-        "streak": "6",
+    "Frog Fight Club (Temp Name)": {
+        "score": "86",
+        "mult": "4.0",
+        "streak": "7",
         "reset": "1",
         "inactive": "0"
     },
@@ -1145,26 +1145,26 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "7"
+        "inactive": "8"
     },
     "Ye Olde Noir GTA": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "5"
+        "inactive": "6"
     },
     "Totally not Castlevania": {
         "score": "54",
         "mult": "3.5",
         "streak": "6",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "FTC": {
-        "score": "32",
-        "mult": "2.5",
-        "streak": "4",
+        "score": "44",
+        "mult": "3.0",
+        "streak": "5",
         "reset": "1",
         "inactive": "0"
     },
@@ -1173,19 +1173,19 @@
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "4"
+        "inactive": "5"
     },
     "Unknown World": {
         "score": "15",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "3"
+        "inactive": "4"
     },
     "Arrowpit": {
-        "score": "71",
-        "mult": "4.0",
-        "streak": "7",
+        "score": "91",
+        "mult": "4.5",
+        "streak": "8",
         "reset": "1",
         "inactive": "0"
     },
@@ -1193,48 +1193,48 @@
         "score": "54",
         "mult": "3.5",
         "streak": "6",
-        "reset": "1",
-        "inactive": "0"
+        "reset": "0",
+        "inactive": "1"
     },
     "Kniggit (working title)": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "4"
+        "inactive": "5"
     },
     "Love Letters to Generico": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "3"
+        "inactive": "4"
     },
     "Trash game as in trash movie but its a game": {
         "score": "54",
         "mult": "3.5",
         "streak": "6",
-        "reset": "1",
-        "inactive": "0"
+        "reset": "0",
+        "inactive": "1"
     },
     "Shipwreck": {
         "score": "17",
         "mult": "2.0",
         "streak": "3",
         "reset": "-1",
-        "inactive": "3"
+        "inactive": "4"
     },
     "Within the Green": {
-        "score": "39",
-        "mult": "3.0",
-        "streak": "5",
+        "score": "54",
+        "mult": "3.5",
+        "streak": "6",
         "reset": "1",
         "inactive": "0"
     },
-    "Karina's Heart (temp name)": {
-        "score": "39",
-        "mult": "3.0",
-        "streak": "5",
+    "Karina's heart (temp name)": {
+        "score": "54",
+        "mult": "3.5",
+        "streak": "6",
         "reset": "1",
         "inactive": "0"
     },
@@ -1243,19 +1243,19 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "4"
+        "inactive": "5"
     },
     "Mech Game I need to find a name for": {
-        "score": "39",
-        "mult": "3.0",
-        "streak": "5",
+        "score": "54",
+        "mult": "3.5",
+        "streak": "6",
         "reset": "1",
         "inactive": "0"
     },
     "Khryse": {
-        "score": "22",
-        "mult": "1.0",
-        "streak": "1",
+        "score": "27",
+        "mult": "1.5",
+        "streak": "2",
         "reset": "1",
         "inactive": "0"
     },
@@ -1264,19 +1264,19 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "3"
+        "inactive": "4"
     },
     "Need For Anime": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
         "reset": "-1",
-        "inactive": "2"
+        "inactive": "3"
     },
     "Pushy Cmulko": {
-        "score": "27",
-        "mult": "2.5",
-        "streak": "4",
+        "score": "39",
+        "mult": "3.0",
+        "streak": "5",
         "reset": "1",
         "inactive": "0"
     },
@@ -1285,26 +1285,26 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "3"
+        "inactive": "4"
     },
     "Unnamed TRPG": {
         "score": "25",
         "mult": "1.0",
         "streak": "1",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "The Black Hand": {
         "score": "10",
         "mult": "1.0",
         "streak": "1",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "Asteroids Rogue": {
-        "score": "27",
-        "mult": "2.5",
-        "streak": "4",
+        "score": "39",
+        "mult": "3.0",
+        "streak": "5",
         "reset": "1",
         "inactive": "0"
     },
@@ -1313,12 +1313,12 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "2"
+        "inactive": "3"
     },
     "Cubedoku": {
-        "score": "17",
-        "mult": "2.0",
-        "streak": "3",
+        "score": "27",
+        "mult": "2.5",
+        "streak": "4",
         "reset": "1",
         "inactive": "0"
     },
@@ -1327,26 +1327,26 @@
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "2"
+        "inactive": "3"
     },
     "Project Abel": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "-1",
-        "inactive": "2"
+        "inactive": "3"
     },
     "Kino-Clicker": {
         "score": "10",
         "mult": "1.5",
         "streak": "2",
-        "reset": "1",
-        "inactive": "0"
+        "reset": "0",
+        "inactive": "1"
     },
     "Helmet Head 64": {
-        "score": "10",
-        "mult": "1.5",
-        "streak": "2",
+        "score": "17",
+        "mult": "2.0",
+        "streak": "3",
         "reset": "1",
         "inactive": "0"
     },
@@ -1354,38 +1354,87 @@
         "score": "5",
         "mult": "1.0",
         "streak": "1",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "Another Tactics Card Game Thing": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "Scrap Galaxy": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
-        "reset": "0",
-        "inactive": "1"
+        "reset": "-1",
+        "inactive": "2"
     },
     "Monogatari Something(?)(Placeholder)": {
+        "score": "5",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "-1",
+        "inactive": "2"
+    },
+    "Lipstick Vermin": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "0",
         "inactive": "1"
     },
-    "Lipstick Vermin": {
+    "Coin to Crown": {
+        "score": "5",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "0",
+        "inactive": "1"
+    },
+    "Negativa Poetica": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",
         "reset": "1",
         "inactive": "0"
     },
-    "Coin to Crown": {
+    "Business Quest (placeholder)": {
+        "score": "5",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
+    },
+    "Jolly Colony": {
+        "score": "5",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
+    },
+    "Young Cultist": {
+        "score": "5",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
+    },
+    "Platformer Helper": {
+        "score": "5",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
+    },
+    "Idol": {
+        "score": "5",
+        "mult": "1.0",
+        "streak": "1",
+        "reset": "1",
+        "inactive": "0"
+    },
+    "Thuby's Game (Unnamed)": {
         "score": "5",
         "mult": "1.0",
         "streak": "1",

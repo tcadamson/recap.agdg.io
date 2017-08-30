@@ -56,7 +56,7 @@ function buildScores(jsonData)
 		var rstr = "+ ]"
 		if (ranges[i][r]) rstr = " - " + ranges[i][r] + " ]"
 		tier.appendChild(newElement("h2", {}, lstr + rstr));
-		if (i < ranges.length - 1) scores.appendChild(newElement("div", { class: "spacer45" }));
+		if (i < ranges.length - 1) scores.appendChild(newElement("div", { class: "spacer25" }));
 		scores.appendChild(tier);
 		tiers[i] = tier;
 	}
