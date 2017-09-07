@@ -22,6 +22,10 @@ body {
     color: inherit;
 }
 
+.quotelink, .quotelink:link, .quotelink:visited, .quotelink:hover, .quotelink:focus, .quotelink:active {
+    color: inherit;
+}
+
 .header {
 	width: 100%;
 	margin-bottom: 60px;

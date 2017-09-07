@@ -24,6 +24,10 @@ $(document).ready(function()
             target: "_blank",
             className: "na"
         });
+        $('.quotelink').each(function(i, obj) {
+            obj.href = "https://4chan.org" + obj.href.replace("http://recap.agdg.io", "");
+            obj.target = "_blank";
+        });
     });
 });
 

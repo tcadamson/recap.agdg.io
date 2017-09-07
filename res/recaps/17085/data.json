@@ -1,0 +1,528 @@
+{
+    "1504504597806": {
+        "game": "Elemental Knight",
+        "name": "anon",
+        "tools": "Unity",
+        "web": "https://jasonpkgames.tumblr.com/",
+        "scoring": "331 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ Got first NPC model in",
+            "+ Got the inside of the windmill set up",
+            "- Thought demoday was the 17th instead of the 8th. Scramble time."
+        ]
+    },
+    "1504511846980": {
+        "game": "Nox Striga",
+        "name": "Mez",
+        "tools": "Unity, Blender, Paint.Net, Gimp",
+        "web": "mezdritch (twitter/tumblr)",
+        "scoring": "227 [x7.0] - 13 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Few tweaks to the board, cards and cards representation on the board.",
+            "+ More card arts done for \"extra\" cards (Created from others in play for example, or for the AIs signature cards)",
+            "+ Overall, mostly cosmetic stuff again. Most elements are ready to be integrated in the match and called when necessary.",
+            "- For now, streamlined a few areas where encounters can happen since I could get loss..."
+        ]
+    },
+    "1504513873792": {
+        "game": "Ctesiphon",
+        "name": "Stomy",
+        "tools": "C++/OpenGL, Blender, Krita",
+        "web": "stomygame.tumblr.com",
+        "scoring": "204 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ The C++ rewrite continues",
+            "+ Centralized asset loading",
+            "+ Map entity loading",
+            "+ Skybox reimplemented",
+            "+ Frame limit to 300Hz when not using Vsync (it was running at about 3kHz before)",
+            "+ V-Sync for older MESA and SGI cards on linux",
+            "- Min OpenGL version raised to 3.3 again (needed for easier attribute layout)"
+        ]
+    },
+    "1504514284984": {
+        "game": "Devil Engine",
+        "name": "shmoopdev",
+        "tools": "GMS,Photoshop,Aesprite",
+        "web": "shmoopdev.turmblr.com",
+        "scoring": "1023 [x10.0] - 30 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Demo mostly done",
+            "+ Passed around privately for feedback, improving on it asap",
+            "+ Misc media for dd16 complete",
+            "- Away until Tuesday, can't dev till then"
+        ]
+    },
+    "1504514861733": {
+        "game": "Space Dementia",
+        "name": "rez",
+        "tools": "SFML/C++",
+        "web": "rezydev.tumblr.com",
+        "scoring": "468 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Updated and broken melee",
+            "+ New title screen",
+            "+ Changed sliding",
+            "+ Option for separate dash button",
+            "+ Improved laser beams and similar attacks",
+            "+ Revamped boss fight",
+            "+ New enemies",
+            "+ New pistol upgrades",
+            "+ Better wall jump",
+            "+ Reworked wall running",
+            "+ Dashing keeps some momentum",
+            "+ Camera moves with player speed",
+            "+ Grenades and flares are sticky",
+            "+ Smoothing water tiles surface",
+            "+ Some water flow simulation",
+            "+ Power sliding",
+            "+ Heat distortion effect near flames",
+            "+ Increased gravity",
+            "+ Experimented with audio effects",
+            "+ Added coyote time",
+            "+ Fuckton of bugfixes and tiny improvements"
+        ]
+    },
+    "1504515476802": {
+        "game": "SFTL : Slightly Faster Than light [working title]",
+        "name": "AZ",
+        "tools": "Godot",
+        "web": "https://vidyadev.tumblr.com/",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Pathfinding use room cells",
+            "+ Fire",
+            "+ Units can extinguish fire",
+            "+ Moving platforms ",
+            "- Bugs",
+            "- I need to fix path following",
+            "- Heavy functions are called more than it should",
+            "- Still not having enough sleep"
+        ]
+    },
+    "1504515661143": {
+        "game": "Jappu -heart of Karina-",
+        "name": "Takkongguy",
+        "tools": "rpgmmv",
+        "web": "http://takkongguy-blog.tumblr.com/",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Finished drawing most of the event scene",
+            "+ Finished main characters overworld sprite",
+            "- Decide to add some more scenes"
+        ]
+    },
+    "1504520449315": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "scoring": "473 [x10.0] - 19 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Made a turret enemy that shoots lots of bullets, then tweaked it to make it more manageable",
+            "+ Camera now tracks the player",
+            "+ Added a new enemy type: Ricocheting Bullet. It bounces between one side of the playing area to the other.",
+            "+ Everything now takes Delta Time into account, so physics should be less weird at higher frame rates.",
+            "- Wave generation system still needs to be changed to be less of a mess.",
+            "- Feature creep is one Hell of a drug"
+        ]
+    },
+    "1504520905050": {
+        "game": "[Placeholder Title]",
+        "name": "Ogier",
+        "tools": "GM:S, Aseprite",
+        "web": "https://ogierdev.tumblr.com https://twitter.com/Ogier_Dev",
+        "scoring": "232 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Added all of the boss moves",
+            "+ Normal Mode version is more or less complete, minus some polish",
+            "- Demo Day too close"
+        ]
+    },
+    "1504522096892": {
+        "game": "Tower Defense",
+        "name": "Tower defense guy",
+        "tools": "Unity, Blender, Paint.NET",
+        "web": "<a href=\"/vg/catalog#s=agdg\" class=\"quotelink\">>>>/vg/agdg</a>",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Tower Upgrades",
+            "+ Tower Perks",
+            "+ Basic UI",
+            "+ Ragdoll for Enemies",
+            "+ Basic Game Cycle (Spawn Wave, Wait, ...)",
+            "- Basically back end is almost done",
+            "- Still a shit ton of bugs, gold resource not implemented, no content besides 1 tower, no sound/music"
+        ]
+    },
+    "1504526154852": {
+        "game": "Gunsun Zeros",
+        "name": "GearSting",
+        "tools": "UE4, Blender",
+        "web": "gearsting.tumblr.com",
+        "scoring": "25 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ New test level",
+            "+ zero g pads",
+            "+ enemy spawner",
+            "+ many new guns",
+            "+ flying robot enemy",
+            "+ better lighting",
+            "- lots of progress because I've missed a few recaps"
+        ]
+    },
+    "1504526593849": {
+        "game": "Mech Game I need to find a name for",
+        "name": "dev name i need to find a name for",
+        "tools": "ue4, blender, gimp",
+        "web": "",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ rewrote the AI to fit with behavior trees",
+            "+ turrets",
+            "+ AI can assume different (basic) movement behaviors when in range of the player",
+            "+ refactoring",
+            "- target leading is wrong, gotta re-do it pretty much entirely",
+            "- haven't gotten around making levels"
+        ]
+    },
+    "1504530098550": {
+        "game": "Ironmash!",
+        "name": "Norby",
+        "tools": "Unity, Paint.net, Inkscape",
+        "web": "",
+        "scoring": "773 [x10.0] - 25 streak",
+        "ext": ".png",
+        "progress": [
+            "- spent all week trying to fix multiplayer that got broken thanks to new scripts",
+            "- only 4 days to demo day and still lots to do"
+        ]
+    },
+    "1504531567174": {
+        "game": "Pushy Cmulko",
+        "name": "Coppermoore",
+        "tools": "Pygame",
+        "web": "irc.freenode.net->#PushyCmulko",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".png",
+        "progress": [
+            "+ New portraits",
+            "+ Some pathfinding tweaking"
+        ]
+    },
+    "1504533221885": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "scoring": "573 [x10.0] - 21 streak",
+        "ext": ".png",
+        "progress": [
+            "+ The Hub is back",
+            "+ Hub buttons are the same as before but now they dynamically draw their connection paths based on the level's Goals instead of being hardcoded",
+            "+ Sprite colors are now taken from a dictionary instead of being hardcoded, now I can change the goal color for example and the hub button's core color will be changed together with it",
+            "+ Working on an animation queue system, this will be used for the black swipe transition and possibly other animations with the added benefits of automatically queuing several animations together with arbitrary durations without having to manually set timers for each combination of animations, the ability to invert animations automatically depending on whether the panel is being enabled or disabled and without spilling animation code spaghetti all over the place",
+            "+ Levels are now preloaded on startup, they aren't pre-instanced yet though",
+            "- I might be over-engineering the whole animations thing",
+            "- No Demo Day this month since there's nothing interesting to play with yet"
+        ]
+    },
+    "1504533225279": {
+        "game": "Triumph of the Cosmos",
+        "name": "anon",
+        "tools": "C#/Monogame/XNA",
+        "web": "triumphofthecosmos.wordpress.com/",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Property catalog bare-bones done",
+            "+ Property inspector bare-bones done",
+            "+ Credit tracker (without use currently)",
+            "+ Refactored sidebar with help from brother",
+            "+ Starting point for what items to have",
+            "+ Inventories as queues of changes over time",
+            "+ Mining module that harvests regularly (used for testing inventories)",
+            "- Not sure what these - bits are for. seems to be anything other than progress",
+            "- Still need to add trades and actually put stuff in the property inspector"
+        ]
+    },
+    "1504533301780": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame, Photoshop",
+        "web": "https://twitter.com/LKTheDev",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made a bunch of cutscenes, decided on a style where I just based the cutscenes on edited photos",
+            "+ Did some work on two new areas.",
+            "+ Fixed the music engine so that music fades between cutscenes and areas",
+            "+ Enemies actually feel fun to fight against",
+            "+ Different tiles now produce different sound when stepped on",
+            "- The monogame video player leaks memory and I realized that my own implementation of the video player messed with the sound buffer. I had to remove all instances where the video player was being used."
+        ]
+    },
+    "1504534133257": {
+        "game": "Asteroids Rogue",
+        "name": "CowThing",
+        "tools": "Godot, Aseprite, Blender",
+        "web": "",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".png",
+        "progress": [
+            "+ There is now a menu between levels to select the next level. In the future this will be a lot fancier and have a shop to buy repairs and upgrades.",
+            "- Didn't make a lot of progress this week. And wont have enough content for demo day"
+        ]
+    },
+    "1504534559087": {
+        "game": "Zombies Lowered My Property Value!",
+        "name": "Jasozz",
+        "tools": "Unity, Blender, Photoshop/Illustrator CS6",
+        "web": "jasozz.tumblr.com",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ BB Gun, Shotgun, Uzi modeled, added",
+            "+ Weapon Radial implemented",
+            "+ Player and enemy death implemented",
+            "- Not sure if I'll make it to Demo Day"
+        ]
+    },
+    "1504534771750": {
+        "game": "Kick-in'",
+        "name": "Kickindev",
+        "tools": "Gamemaker Studio",
+        "web": "kickindev.tumblr.com",
+        "scoring": "723 [x10.0] - 24 streak",
+        "ext": ".png",
+        "progress": [
+            "- My soul was being sapped out of me by jury duty this past week and I didn't really get anything done..."
+        ]
+    },
+    "1504535062695": {
+        "game": "Khryse",
+        "name": "Khryse-dev",
+        "tools": "UE4",
+        "web": "http://khryse-dev.tumblr.com/",
+        "scoring": "44 [x2.5] - 4 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Added a bunch of visual flair",
+            "+ some enviro textures",
+            "+ added movement goals",
+            "+ added stamina system",
+            "+ added basic bot with animations",
+            "+ working out a level for the demo day",
+            "+ added lock-on system"
+        ]
+    },
+    "1504535783488": {
+        "game": "Project M",
+        "name": "Adam",
+        "tools": "Unity, Blender",
+        "web": "twitter.com/7TowersSoftware",
+        "scoring": "170 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ Cleaned up some spaghetti",
+            "+ got a good idea on how to deal with back weapons",
+            "+ almost finished designing a new mecha",
+            "- computer was ded and I couldn't dev too much"
+        ]
+    },
+    "1504536433635": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "scoring": "1223 [x10.0] - 34 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Fully implemented the charged warhammer attack, enemy gets knocked down on hit",
+            "+ Implemented Rapier parry. Parry automatically triggers on the first and second attacks of the Rapier's regular combo",
+            "+ Added some improvements to the Attack Editor (copy-paste of hit detectors)",
+            "- Wasted time looking into git-lfs, ultimately decided not to use it anyway"
+        ]
+    },
+    "1504540783009": {
+        "game": "Within the Green",
+        "name": "anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ edited some sprites",
+            "+ finished new main character portrait",
+            "- uni assignments are due this week",
+            "- demon day is close"
+        ]
+    },
+    "1504541979073": {
+        "game": "Still Not Dead",
+        "name": "Glove Games",
+        "tools": "Unity, aesprite, sfxr",
+        "web": "search for it on steam",
+        "scoring": "27 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ skull system beginnings",
+            "+ new music track",
+            "+ prettier menu",
+            "+ new logo"
+        ]
+    },
+    "1504547944776": {
+        "game": "Lipstick Vermin",
+        "name": "Daxalog",
+        "tools": "Blender, Unity3d, Paint Tool Sai",
+        "web": "@Daxalog",
+        "scoring": "10 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Ellipses now has a framework that allows for item pickups.",
+            "+ Starting a side project for an \"Eggman\" Simulator.",
+            "- Have to prepare for the new college year",
+            "- Find way that allows models to look good and react to light. Goal: Something like Source games."
+        ]
+    },
+    "1504549511119": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Cutscene video playback system done",
+            "+ Dialogue system polished",
+            "+ Game menu art and animation done",
+            "+ Game menu base functionality done"
+        ]
+    },
+    "1504552318800": {
+        "game": "Helmet Head 64",
+        "name": "quasiberry",
+        "tools": "UE4/Maya/Zbrush",
+        "web": "quasiberry.tumblr.com<br>",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Improved slope and helmet sliding physics",
+            "+ Made collectible coins",
+            "+ Made pinball props for first level"
+        ]
+    },
+    "1504558948149": {
+        "game": "Newgame Quest",
+        "name": "bald russian",
+        "tools": "ps & flash (fuck off I can only program as2 and php)",
+        "web": "",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ everything planned",
+            "+ home hub",
+            "+ 8-directional mc spritesheet done",
+            "+ 80% of NPC dialogue written",
+            "- main city hub wip",
+            "- secrets wip",
+            "- engine wip"
+        ]
+    },
+    "1504576179717": {
+        "game": "Cubedoku",
+        "name": "Blank",
+        "tools": "Unity",
+        "web": "",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Background/music transition automatically or on key press",
+            "+ Player saves w/ Steam Cloud integration",
+            "+ Cleaned up a lot of older code",
+            "- I didn't realize Demo Day was so soon. Time for a week of hurriedly adding and tweaking features"
+        ]
+    },
+    "1504581214848": {
+        "game": "Negativa Poetica",
+        "name": "Lintire/Template88 and co.",
+        "tools": "Godot, PS, Piskel, Fruityloops",
+        "web": "",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Buncha fully implemented enemies and sprites",
+            "- Gonna be a mad scramble to rig up the boss for this level and work out whatever the fuck it is I'm doing with these shadows and overlays before DemoDay."
+        ]
+    },
+    "1504591604560": {
+        "game": "FTC",
+        "name": "RPG",
+        "tools": "UTY",
+        "web": "fleettacticalcommand.com",
+        "scoring": "76 [x4.0] - 7 streak",
+        "ext": ".png",
+        "progress": [
+            "+ secured $50k in investment",
+            "+ made initial offer on a property for lease",
+            "+ 3 new tracks complete",
+            "+ artists still chugging along with projects",
+            "- 2nd programmer is AWOL",
+            "- code development stalled"
+        ]
+    },
+    "1504629098828": {
+        "game": "Frog Fight Club",
+        "name": "yamasakai",
+        "tools": "Unity, PS, Blender",
+        "web": "twitter.com/yamasakai | gloomgrooveundernight.tumblr.com",
+        "scoring": "128 [x5.0] - 9 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Fixed few minor bugs on state machine",
+            "- Need to reorganize my plan"
+        ]
+    },
+    "1504629658209": {
+        "game": "Skylarks",
+        "name": "Mako",
+        "tools": "Rust, Logic, Blender, SDL2",
+        "web": "http://mako.itch.io/skylarks",
+        "scoring": "1343 [x10.0] - 58 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Map editor accounts for relativistic time dilation when simulating history",
+            "+ Day job has gotten a little less hectic and I can dev more often",
+            "- Main menu music has a lot of instruments and it's getting out of hand",
+            "- Gonna miss another demo day"
+        ]
+    },
+    "1504634274597": {
+        "game": "HACK the FBI",
+        "name": "vestigial",
+        "tools": "Unity",
+        "web": "@vestigialdev",
+        "scoring": "475 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Tryn'a demoday",
+            "+ Added \"guest account\" vulnerability",
+            "+ 802 wishlists",
+            "- Obsessing over small/unimportant things",
+            "- Scenario development constantly exposes broken things"
+        ]
+    }
+}
