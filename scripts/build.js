@@ -15,9 +15,9 @@ $(document).ready(function()
     week = recap.charAt(block*2);
     month = months[parseInt(recap.substr(block, block)) - 1];
     year = recap.substr(0, block);
-    attachCSS();
     jsonLoad("res/recaps/" + recap + "/data.json", function(data)
     {
+        attachHeader();
         build(data);
         correctImages();
         $("p").linkify({
@@ -41,12 +41,10 @@ function getParameter(name)
     return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
 
-function attachCSS()
+function attachHeader()
 {
-    var css = document.createElement("link");
-    css.setAttribute("rel", "stylesheet");
-    css.setAttribute("href", "res/css/" + recap.substr(0, block*2) + ".css");
-    document.head.appendChild(css);
+    document.head.appendChild(newElement("link", { rel: "stylesheet", href: "res/css/" + recap.substr(0, block*2) + ".css" }));
+    document.head.appendChild(newElement("title", {}, recap.substr(block, block) + "/20" + year + ", week " + week));
 }
 
 function loadItemContents(entry, parts)
