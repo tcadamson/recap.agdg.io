@@ -3,18 +3,21 @@ var frameh = 234;
 var detailh = 100;
 var block = 2;
 var recap;
-var week;
 var month;
-var year;
+var w;
+var yy;
+var yymm;
 var id;
 
 $(document).ready(function()
 {
     recap = getParameter("id");
-    if (recap == null || recap == "") home();
-    week = recap.charAt(block*2);
+    if (!recap)
+        home();
     month = months[parseInt(recap.substr(block, block)) - 1];
-    year = recap.substr(0, block);
+    w = recap.charAt(block*2);
+    yy = recap.substr(0, block);
+    yymm = recap.substr(0, block*2);
     jsonLoad("res/recaps/" + recap + "/data.json", function(data)
     {
         attachHeader();
@@ -24,7 +27,7 @@ $(document).ready(function()
             target: "_blank",
             className: "na"
         });
-        $('.quotelink').each(function(i, obj) {
+        $(".quotelink").each(function(i, obj) {
             obj.href = "https://4chan.org" + obj.href.replace("http://recap.agdg.io", "");
             obj.target = "_blank";
         });
@@ -36,28 +39,52 @@ function getParameter(name)
     name = name.replace(/[\[\]]/g, "\\$&");
     var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)");
     var results = regex.exec(window.location.href);
-    if (!results) return null;
-    if (!results[2]) return "";
+    if (!results)
+        return null;
+    if (!results[2])
+        return "";
     return decodeURIComponent(results[2].replace(/\+/g, " "));
 }
 
 function attachHeader()
 {
-    document.head.appendChild(newElement("link", { rel: "stylesheet", href: "res/css/" + recap.substr(0, block*2) + ".css" }));
-    document.head.appendChild(newElement("title", {}, recap.substr(block, block) + "/20" + year + ", week " + week));
+    document.head.appendChild(newElement("link", { rel: "stylesheet", href: "res/css/" + yymm + ".css" }));
+    document.head.appendChild(newElement("title", {}, recap.substr(block, block) + "/20" + yy + ", week " + w));
 }
 
 function loadItemContents(entry, parts)
 {
-    parts.heading.appendChild(newElement("h2", {}, entry.game));
-    parts.contents.appendChild(newElement("p", { id: "details" }, "DEV&emsp;" + entry.name + "<br>TOOLS&emsp;" + entry.tools + "<br>WEB&ensp;&nbsp; " + entry.web));
+    var details = newElement("div", { class: "details" });
+    var progress = newElement("div", { class: "list" });
     var list = "PROGRESS";
+    parts.heading.appendChild(newElement("h2", {}, entry.game));
+    details.appendChild(newElement("p", {}, "DEV&emsp;" + entry.name + "<br>TOOLS&emsp;" + entry.tools + "<br>WEB&ensp;&nbsp; " + entry.web));
+    parts.contents.appendChild(details);
     for (var i = 0; i < entry.progress.length; i++)
     {
         list += "<br>" + entry.progress[i];
     }
-    parts.contents.appendChild(newElement("p", { id: "progress" }, list));
+    progress.appendChild(newElement("p", {}, list));
+    parts.contents.appendChild(progress);
     parts.score.appendChild(newElement("h2", {}, entry.scoring));
+}
+
+function testWildcard(id, entry, parts)
+{
+    if (entry.wildcard)
+    {
+        parts.item.classList.add(entry.wildcard);
+        var icon = newElement("div", { class: "icon" });
+        var img = new Image();
+        img.id = id;
+        img.src = "res/icons/" + yymm + "/" + entry.wildcard + ".png";
+        img.onload = function()
+        {
+            var container = getNode(document.getElementById(this.id).childNodes, "div", "icon");
+            container.appendChild(this);
+        }
+        parts.item.appendChild(icon);
+    }
 }
 
 function build(jsonData)
@@ -65,9 +92,9 @@ function build(jsonData)
     var header = newElement("div", { class: "header" });
     var text = newElement("div", { class: "text" });
     var grid = newElement("div", { class: "grid" });
-    header.appendChild(newElement("img", { src: "res/agdg" + recap.substr(0, block*2) + ".png", alt: "JLMG" }));
-    text.appendChild(newElement("h1", {}, month.toUpperCase() + " 20" + year));
-    text.appendChild(newElement("h1", { id: "week" }, "WEEK " + week));
+    header.appendChild(newElement("img", { src: "res/icons/" + yymm + ".png", alt: "JLMG" }));
+    text.appendChild(newElement("h1", {}, month.toUpperCase() + " 20" + yy));
+    text.appendChild(newElement("h1", { id: "week" }, "WEEK " + w));
     header.appendChild(text);
     for (var id in jsonData)
     {
@@ -83,6 +110,7 @@ function build(jsonData)
         part_names.push("score");
         parts.item.id = id;
         parts.score = newElement("div", { class: "heading", id: "score" });
+        testWildcard(id, entry, parts);
         loadItemContents(entry, parts);
         for (var i = 1; i < part_names.length - 1; i++)
         {
@@ -98,7 +126,7 @@ function build(jsonData)
 
 function resize(img)
 {
-    var canvas = document.getElementById(img.id).childNodes[0];
+    var canvas = getNode(document.getElementById(img.id).childNodes, "canvas");
     var context = canvas.getContext("2d");
     var w = img.width;
     var h = img.height;
@@ -126,10 +154,10 @@ function correctImages(canvas)
         var img = new Image();
         var id = canvas.parentNode.id;
         img.id = id;
+        img.src = "res/recaps/" + recap + "/images/" + id + canvas.getAttribute("ext");
         img.onload = function()
         {
             resize(this);
         }
-        img.src = "res/recaps/" + recap + "/images/" + id + canvas.getAttribute("ext");
     }
 }

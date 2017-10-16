@@ -29,7 +29,6 @@ $(document).ready(function()
 function buildLinks()
 {
 	var date = dateData();
-	var weeks = long[date.month] ? 5 : 4;
 	var lower = document.getElementById("lower");
 	var block = newElement("div", { class: "content block" });
 	var links = monthLinks(date);

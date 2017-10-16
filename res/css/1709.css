@@ -25,12 +25,12 @@ body {
 	color: #465c71;
 }
 
-p#details {
+.details {
 	background-color: #465c71;
 	color: #ffd5bc;
 }
 
-p#progress {
+.list {
 	background-color: #c94e71;
 	color: #ffd5bc;
 }

@@ -1,6 +1,6 @@
 var long = { "august": true, "november": true };
 var months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
-var temp = []
+var temp = [];
 
 function redirect(URL)
 {
@@ -102,4 +102,22 @@ function monthLinks(data, nested)
         return lparent;
     }
     return list;
+}
+
+function getNode(list, tag, name)
+{
+    var node;
+    for (var i = 0; i < list.length; i++)
+    {
+        var temp = list[i];
+        if (temp.tagName.toLowerCase() == tag)
+        {
+            if ((tag == "div" && temp.className == name) || (tag != "div"))
+            {
+                node = temp;
+                break;
+            }
+        }
+    }
+    return node;
 }

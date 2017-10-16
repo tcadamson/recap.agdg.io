@@ -25,10 +25,10 @@ body {
 	color: #5F1247;
 }
 
-p#details {
+.details {
 	background: linear-gradient(#EF4976, #EE3075);
 }
 
-p#progress {
+.list {
 	background: #601348;
 }

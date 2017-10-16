@@ -111,20 +111,27 @@ h1#week {
 	display: flex;
     flex-direction: column;
     word-wrap: break-word;
-	border-radius: 15px 15px 0 0;
 }
 
-p#details {
+.details {
 	margin: 0;
 	max-width: 384px;
 	border-radius: 15px 15px 0 0;
 	padding: 20px 12px 20px 12px;
 }
 
-p#progress {
+.details p {
+	margin: 0;
+}
+
+.list {
 	margin: 0;
 	flex: 1;
 	max-width: 384px;
 	border-radius: 0 0 15px 15px;
 	padding: 20px 12px 20px 12px;
+}
+
+.list p {
+	margin: 0;
 }
