@@ -1,0 +1,452 @@
+{
+    "1508184075723": {
+        "game": "Storm Storm",
+        "name": "Dogma",
+        "tools": "M6809 Assembly",
+        "web": "https://twitter.com/CaptDreamcast",
+        "wildcard": "bat",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Released the dopest of dope trailers (https://www.youtube.com/watch?v=IU5ToHUK-xk)",
+            "+ Finally acquired Windows dev tools, goodbye Dosbox ",
+            "+ Just like made the rest of the game",
+            "+ Started Windows/Dreamcast port ",
+            "- Still a few bugs here and there",
+            "- Lost complete interest in the game"
+        ]
+    },
+    "1508184720956": {
+        "game": "Generic Zombie Shooter - Redux",
+        "name": "Generic Dev",
+        "tools": "Java, Slick2D",
+        "web": "None",
+        "wildcard": "pumpkin",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Added enemy controller to manage enemy waves.",
+            "+ Added experience and leveling system with training screen to enhance abilities.",
+            "+ Added some new status effect items.",
+            "+ Added another zombie type.",
+            "+ Increase resolution."
+]
+    },
+    "1508185968059": {
+        "game": "Porro Viatica",
+        "name": "Plessy",
+        "tools": "Monogame",
+        "web": "teamessell.tumblr.com",
+        "wildcard": "bat",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Started project",
+            "+ Most of the backing engine is complete ",
+            "+ Implemented the first ship including basic movement",
+            "+ Implemented rapid main gun and spread sub gun.",
+            "+ Implemented boku as target practice"
+        ]
+    },
+    "1508186068272": {
+        "game": "Mech game blabla",
+        "name": "Tomo ge",
+        "tools": "UE4, Blender, Krita",
+        "web": "",
+        "wildcard": "tombstone",
+        "scoring": "262 [x7.5] - 14 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ HDD failed. But my files didn't sink with it.",
+            "+ Refined the input buffer and made it more clear to me",
+            "+ Cleaning up some AI stuff ",
+            "- Wasted an afternoon fetching the new HDD",
+            "- Wasted another one copying files and replacing it",
+            "- Progress machine broke",
+            "- I thought the ghost would be much cooler and there's no skeleton."
+        ]
+    },
+    "1508186433490": {
+        "game": "Good Night, Knight",
+        "name": "Knightdev",
+        "tools": "GM:S, Aseprite",
+        "web": "http://knightdev.tumblr.com/",
+        "wildcard": "pumpkin",
+        "scoring": "118 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ NOTHING PLEASE DONT TAKE MY STREAK"
+        ]
+    },
+    "1508186551490": {
+        "game": "Unnamed Furry Defense Game",
+        "name": "PlayerEmers",
+        "tools": "UE 4, Blender, Gimp",
+        "web": "twitter.com/PlayerEmers",
+        "wildcard": "bat",
+        "scoring": "5 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ Character movement done",
+            "+ Camera controls done",
+            "+ First one handed weapon done and implemented to the game",
+            "+ Some blend animation issues fixed",
+            "+ Animations tweaked",
+            "+ Character colors adjusted",
+            "- There is still some minor animation blend issues",
+            "- I think im really slow at making progress, specially because im still learning and sometimes i take breaks that are too long"
+        ]
+    },
+    "1508186847209": {
+        "game": "Helmet Head 64",
+        "name": "quasiberry",
+        "tools": "UE4/Maya",
+        "web": "quasiberry.tumblr.com",
+        "wildcard": "bat",
+        "scoring": "54 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ added grab objects (crate, key, switch, trampoline)",
+            "+ added drill helmet"
+        ]
+    },
+    "1508187260960": {
+        "game": "Cyberdetective 2042: Maximum Investigation",
+        "name": "JacquesGuga",
+        "tools": "GameMaker, CLIP Studio, Aseprite",
+        "web": "gugajokes.tumblr.com, @gugajokesss",
+        "wildcard": "tombstone",
+        "scoring": "15 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ changed the resolution and made a better HUD;",
+            "+ finished the first quest of the game;",
+            "+ made new vending machines for noodles and energy drinks;",
+            "+ got player feedback for the 1st time;",
+            "- the resolution change fucked a lot of the art;",
+            "- slow week;"
+        ]
+    },
+    "1508187560603": {
+        "game": "Spice Trader",
+        "name": "goet",
+        "tools": "Unity",
+        "web": "https://twitter.com/goetworks",
+        "wildcard": "ghost",
+        "scoring": "5 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ rewrote the game to work with the new Tilemap system",
+            "+ implemented pathfinding so the game is now click to move",
+            "+ towns can produce and consume spices again and they grow in size if their needs are met",
+            "- the current system for leveling up towns is fairly basic and too uniform",
+            "- need to find a way to communicate with the player because the changes are too infrequent for the player to realize they are affecting the gameworld"
+        ]
+    },
+    "1508188327654": {
+        "game": "Galactic Pocket Billiards",
+        "name": "Sirrico-Net Games",
+        "tools": "GMS",
+        "web": "https://sirrico.itch.io",
+        "wildcard": "bat",
+        "scoring": "15 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Adding changes from demo feedback",
+            "+ Started working on promo material",
+            "+ Preparing for 2nd demo release",
+            "- Android capping at 60fps is a bummer",
+            "- GMS is actually a meme"
+        ]
+    },
+    "1508188929605": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame, Photoshop",
+        "web": "https://twitter.com/LKTheDev",
+        "wildcard": "pumpkin",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made a water shader",
+            "+ Finished up the forest area",
+            "- Had to remake the water shader,",
+            "- Started a side project"
+        ]
+    },
+    "1508189775875": {
+        "game": "The Jackal",
+        "name": "AngryGhoust",
+        "tools": "GMS 1.4, Paint.NET, SAI",
+        "web": "https://angryghoust.tumblr.com",
+        "wildcard": "pumpkin",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Worked quite a bit one the first boss",
+            "+ First boss is almost finished",
+            "+ Mouse support for main menu",
+            "+ Redone some sprites",
+            "+ Added typewritter effect for dialogues"
+        ]
+    },
+    "1508190579435": {
+        "game": "Unknown World",
+        "name": "Dewdneym",
+        "tools": "RPG Maker VX Ace, Paint.net",
+        "web": "dewdneym.tumblr.com, https://twitter.com/UnknownWorldDev",
+        "wildcard": "pumpkin",
+        "scoring": "59 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Got progress done on both branches of next major story event.",
+            "+ created miniboss battle event",
+            "+ created a bunch of small events that may affect the main story events depending on your actions",
+            "- gonna have to get a normal job which will cut into dev time /blog"
+        ]
+    },
+    "1508192329209": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "wildcard": "bat",
+        "scoring": "773 [x10.0] - 25 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ I can now batch objects to spawn into arrays and store that in a wave object. Which makes for a much easier time of creating, testing, and storing that information.",
+            "+ Built a universal pickup system that can be tweaked to give better or worse chances of certain item drops, like health and weapons. It can also forcefully spawn anything at any time.",
+            "- Need to build a wave creation system and find a way to write and load them from a file.",
+            "- I'm way behind where I wanted to be by this point."
+        ]
+    },
+    "1508197103585": {
+        "game": "Nox Striga",
+        "name": "Mez",
+        "tools": "Unity, Blender, Paint.Net, Gimp",
+        "web": "mezdritch (twitter/tumblr)",
+        "wildcard": "pumpkin",
+        "scoring": "473 [x10.0] - 19 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Mostly redesigning cards and mechanics. It feels a lot closer to the original idea, uses less card types and promotes more play styles.",
+            "- The focus is on the Necromancer at the moment. After getting a second class redesigned, I'll test them together. The others will have to wait for more progress on the programming side of things."
+        ]
+    },
+    "1508198600482": {
+        "game": "Trash game as in trash movie but its a game",
+        "name": "Augurusto",
+        "tools": "Macromedia 8, Paint.net",
+        "web": "https://augurusto.tumblr.com https://twitter.com/augurusto",
+        "wildcard": "bat",
+        "scoring": "59 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ free week to dev and i spent it wholy deving",
+            "+ made a lot of ui and set it up on flash",
+            "+ char poses/combat",
+            "+ made the entire planning of a raid",
+            "- threw some rooms to the trash",
+            "+ made new rooms",
+            "+ planned some mechanics and ways to put it on game"
+        ]
+    },
+    "1508203288142": {
+        "game": "Khryse",
+        "name": "Khryse-dev",
+        "tools": "UE4",
+        "web": "https://khryse-dev.tumblr.com/",
+        "wildcard": "bat",
+        "scoring": "155 [x5.5] - 10 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Added second combos",
+            "+ Added third combo",
+            "+ Started doing VFX for hits",
+            "+ Learned a bunch of cool things about making VFX",
+            "- Spent most of the week following tutorials, so not much visible progress"
+        ]
+    },
+    "1508203418278": {
+        "game": "Sim Loli",
+        "name": "",
+        "tools": "C++",
+        "web": "/agdg/26682",
+        "wildcard": "pumpkin",
+        "scoring": "37 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Finally got NPC pathing to work again properly! Now they don't phase through walls inside!",
+            "+ Fixed important bug (crash when you chloroform girls) which fixes other end-of-dialogue issues too in the future.",
+            "+ Clothes now have alternate colour palettes + everything now externally defined in JSON files for easy modification",
+            "+ Added a conversion tool so I only draw 1/3 of the hair small sprites and compute offsets for rest",
+            "+ Added short/long/alternate pigtails for hair in the small sprites too",
+            "+ Added an \"eating an invisible hotdog\" pose for girls"
+        ]
+    },
+    "1508203504634": {
+        "game": "Kick-in'",
+        "name": "Kickindev",
+        "tools": "GM:S",
+        "web": "kickindev.tumblr.com",
+        "wildcard": "bat",
+        "scoring": "1023 [x10.0] - 30 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Not that much done this week, but I did manage to get off work next week to do some serious devving done.",
+            "+ preliminary coding for Tonfa falling/rising scripts in place.",
+            "- The enemy rising/falling states are the most complicated part of enemy scripting so i'm trying desperately to not break fukken everything implementing them.",
+            "- TF2 IS UPDATING AND I CAN FEEL THAT IT'S GONNA TANK MY PRODUCTIVITY AAAHHHH"
+        ]
+    },
+    "1508204947961": {
+        "game": "Within the Green",
+        "name": "Anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "wildcard": "pumpkin",
+        "scoring": "262 [x7.5] - 14 streak",
+        "ext": ".png",
+        "progress": [
+            "+ worked on assets",
+            "- uni assignments due this and next week will halt progress"
+        ]
+    },
+    "1508205162654": {
+        "game": "sports",
+        "name": "alloyed, runninblood",
+        "tools": "love",
+        "web": "",
+        "wildcard": "tombstone",
+        "scoring": "42 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "- fuck",
+            "+ refactored my game so I can namespace assets, that's progress I guess"
+        ]
+    },
+    "1508206474895": {
+        "game": "Skylarks",
+        "name": "Mako",
+        "tools": "Rust, Logic, Blender",
+        "web": "http://mako.itch.io/skylarks",
+        "wildcard": "pumpkin",
+        "scoring": "1643 [x10.0] - 64 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Replaced garbage collection with reference counting in the bytecode interpreter",
+            "- Tried to do weird things with sphere topology and my brain exploded",
+            "- Still stumped by widget event handling",
+            "- It's pissing me off"
+        ]
+    },
+    "1508206644192": {
+        "game": "UW",
+        "name": "anon",
+        "tools": "Unity",
+        "web": "",
+        "wildcard": "ghost",
+        "scoring": "27 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Traning added (without animation)",
+            "+ Hurt face added",
+            "+ Rifle sound added",
+            "+ Sentry AI added",
+            "+ Character weapons loaded from DB",
+            "+ Gave up looking for an artist",
+            "- Gave up looking for an artist"
+        ]
+    },
+    "1508210534109": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "wildcard": "ghost",
+        "scoring": "1523 [x10.0] - 40 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ fixed some bugs with the animation (position of hand when gripping weapon is off, spastic rotation of elbows on certain attacks, etc.)",
+            "+ started working on torso leaning up/down so your attacks are more in line when the targeted enemy is above or below you"
+        ]
+    },
+    "1508211570754": {
+        "game": "Cash Sample",
+        "name": "SlowDancer",
+        "tools": "RPG Maker MV, Photofiltre, Cubase 8, Internet, Coke",
+        "web": "https://lemmyrodul.com",
+        "wildcard": "ghost",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": "s.jpg",
+        "progress": [
+            "+ Working GFX/scripts via a Jam Game until nov 9th",
+            "+ Map Board",
+            "+ Player numbers selection screen",
+            "+ Dice script",
+            "- There's no skeleton theme for the recap"
+        ]
+    },
+    "1508221509294": {
+        "game": "Ctesiphon",
+        "name": "Stomy",
+        "tools": "C++/OpenGL, Blender, Krita",
+        "web": "stomygame.tumblr.com",
+        "wildcard": "pumpkin",
+        "scoring": "345 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ The C++ rewrite continues",
+            "+ Refactoring texture system to eliminate some race conditions",
+            "+ Weapon system, particles, and animation have to be implemented all at once so that's taking a while",
+            "- Not helped by new Warframe update, been playing way too much of it"
+        ]
+    },
+    "1508245959979": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "wildcard": "tombstone",
+        "scoring": "873 [x10.0] - 27 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Working on Level 1-4",
+            "+ Scanline and glow effect, I haven't touched shaders yet though",
+            "+ Movement input buffering for animations, now you can speed up animations to skip them and you will also move once the animation is finished",
+            "+ More sounds added",
+            "+ Fixed many bugs and issues, particularly related to rewinding"
+        ]
+    },
+    "1508261758230": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "wildcard": "pumpkin",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added new cave battle background",
+            "+ Sketched a handful of new battle enemies ",
+            "+ Added new battle enemy",
+            "+ Added two new story NPCs",
+            "+ Animating cutscenes"
+        ]
+    },
+    "1508266528436": {
+        "game": "Sudokube",
+        "name": "Blank",
+        "tools": "Unity",
+        "web": "@PhilBlankGames",
+        "wildcard": "tombstone",
+        "scoring": "195 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Buttons now tell you how many of each number are left",
+            "+ Cleaned up some old code and then made some new messes",
+            "+/- Trying to figure out how to cram a tutorial into my game",
+            "- Still have project burnout"
+        ]
+    }
+}

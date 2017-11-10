@@ -18,43 +18,26 @@ body {
 	margin-top: -20px;
 }
 
+.icon {
+	position: relative;
+	margin-top: 149px;
+	height: 1px;
+}
+
+.icon img {
+	position: absolute;
+	bottom: 0;
+}
+
 .frame {
 	border-radius: 9px;
 }
 
-.pumpkin .frame {
-	background-color: #bc424b;
-}
-
-.ghost .frame {
-	background-color: #e8c7ba;
-}
-
-.bat .frame {
-	background-color: #273849;
-}
-
-.pumpkin .heading {
+.heading {
 	color: #e8c7ba;
 }
 
-.ghost .heading {
-	color: #467b80;
-}
-
-.bat .heading {
-	color: #e8c7ba;
-}
-
-.pumpkin .contents {
-	color: #e8c7ba;
-}
-
-.ghost .contents {
-	color: #e8c7ba;
-}
-
-.bat .contents {
+.contents {
 	color: #e8c7ba;
 }
 
@@ -68,30 +51,70 @@ body {
 	border-bottom: 2px solid;
 }
 
-.pumpkin .details {
-	background-color: #392a3e;
-}
-
-.ghost .details {
-	background-color: #467b80;
-}
-
-.bat .details {
-	background-color: #3b4a63;
-}
-
 .list {
 	border-radius: 0 0 9px 9px;
 }
 
-.pumpkin .list {
+/* Frame */
+.pumpkin .frame {
+	background-color: #bc424b;
+}
+
+.ghost .frame {
+	background-color: #e8c7ba;
+}
+
+.bat .frame {
+	background-color: #273849;
+}
+
+.tombstone .frame {
+	background-color: #58767b;
+}
+
+.skeleton .frame {
+	background-color: #91aba4;
+}
+
+.witch .frame {
+	background-color: #384a5c;
+}
+
+/* Heading */
+.ghost .heading {
+	color: #467b80;
+}
+
+.skeleton .heading {
+	color: #35545d;
+}
+
+/* Contents */
+.skeleton .contents {
+	color: #91aba4;
+}
+
+/* Details */
+.pumpkin .details, .pumpkin .list {
 	background-color: #392a3e;
 }
 
-.ghost .list {
+.ghost .details, .ghost .list {
 	background-color: #467b80;
 }
 
-.bat .list {
+.bat .details, .bat .list {
 	background-color: #3b4a63;
+}
+
+.tombstone .details, .tombstone .list {
+	background-color: #2f4552;
+}
+
+.skeleton .details, .skeleton .list {
+	background-color: #35545d;
+}
+
+.witch .details, .witch .list {
+	background-color: #22343e;
 }
