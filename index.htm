@@ -4,21 +4,34 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="initial-scale=0.5, maximum-scale=0.5, user-scalable=no">
-        <title>/agdg/ Weekly Recap</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        <link rel="stylesheet" href="res/css/home.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script src="scripts/common.js"></script>
-        <script src="scripts/home.js"></script>
+        <title>Home</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <script data-main="js/main.js" data-start="m1" src="js/lib/require.min.js"></script>
     </head>
     <body>
-        <div class="container" id="upper">
-            <div class="content info">
-                <h1>/agdg/ weekly recap</h1>
-                <p>Enter a recap code here. Format is YYMMW. e.g.<br>17073 - July 2017, week 3</p>
+        <div class ="table">
+            <div id="home" class="container cell">
+                <div class="heading bounded">
+                    <h1>/agdg/ weekly recap</h1>
+                </div>
+                <div class="break"></div>
+                <div id="subtitle">
+                    <p>Recaps begin on Mondays ~8AM UTC<br>Submission window is ~36 hours</p>
+                </div>
+                <div class="link border">
+                    <a href="http://recap.agdg.io/timeline">timeline</a>
+                </div>
+                <div class="link border">
+                    <a href="http://recap.agdg.io/info">info</a>
+                </div>
+                <div class="link border">
+                    <a href="http://recap.agdg.io/scores">scores</a>
+                </div>
+                <div id="stats">
+                    <p>[ Stats ]<br>Recaps completed: ...<br>Games entered: ...<br>Most used tool: ...<br>Average progress: ...</p>
+                </div>
             </div>
-            <input class="content" type="number" id="field" autofocus="autofocus" placeholder="#">
         </div>
-        <div class="container" id="lower"></div>
     </body>
 </html>

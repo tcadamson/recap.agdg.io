@@ -1,0 +1,170 @@
+@font-face {
+    font-family: uc;
+    src: url(../res/font/uc.otf);
+}
+
+@font-face {
+    font-family: uc;
+    src: url(../res/font/uc_light.otf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: uc;
+    src: url(../res/font/uc_med.otf);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: uc;
+    src: url(../res/font/uc_bold.otf);
+    font-weight: 300;
+}
+
+@media (hover: hover) {
+    a:hover {
+        text-decoration: underline;
+    }
+
+    .link:hover {
+        width: 375px;
+    }
+}
+
+body {
+    background: #3F51B5;
+}
+
+h1, a, p, ul {
+    color: #E8EAF6;
+    font-family: uc;
+    font-size: 1.65em;
+    line-height: 1.22em;
+}
+
+ul {
+    margin-bottom: 65px;
+    list-style-type: none;
+}
+
+ul a {
+    font-size: 1em;
+}
+
+a, a.dead, .link a {
+    text-decoration: none;
+}
+
+h1, .link a {
+    font-weight: 100;
+    font-size: 4.4em;
+    line-height: 1em;
+}
+
+.table {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    max-width: 900px;
+    min-width: 640px;
+    margin: 25px auto;
+}
+
+.cell {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.bounded {
+    width: 85%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    font-size: 100%;
+    text-align: center;
+    padding-bottom: 2px;
+}
+
+#subtitle {
+    padding-bottom: 65px;
+}
+
+#stats {
+    padding: 45px 0 25px 0;
+}
+
+.link {
+    background: #3F51B5;
+    transition: all 0.2s ease;
+    width: 350px;
+    height: 81px;
+    text-align: center;
+    margin: 60px auto 45px auto;
+}
+
+#home .link {
+    margin: 0 auto 20px auto;
+}
+
+#home .heading {
+    padding-top: 25px;
+}
+
+.break {
+    background: #E8EAF6;
+    width: 350px;
+    height: 3px;
+    margin: 13px auto 38px auto;
+}
+
+.inline {
+    display: table;
+    margin: auto;
+    padding: 25px 7px 0 0;
+}
+
+#timeline .boxed, .label {
+    margin-bottom: 13px;
+}
+
+.boxed {
+    float:left;
+    padding: 2px 13px 4px 13px;
+}
+
+.boxed a.spaced {
+    margin-right: 37px;
+}
+
+.label {
+    float: left;
+    clear: left;
+    width: 160px;
+    height: 40px;
+    text-align: right;
+    padding: 4px 17px 0 0;
+}
+
+.border {
+    border: 3px solid #E8EAF6;
+    border-radius: 4px;
+}
+
+.fixed {
+    overflow:hidden;
+    width: 468px;
+    margin: auto;
+    margin-bottom: 65px;
+}
+
+.end {
+    margin-bottom: 0px !important;
+}

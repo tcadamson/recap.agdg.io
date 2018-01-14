@@ -1,0 +1,486 @@
+{
+    "1511769812642": {
+        "game": "Sim Loli",
+        "name": "",
+        "tools": "C++ / SFML",
+        "web": "/agdg/26682",
+        "scoring": "148 [x5.5] - 10 streak",
+        "ext": ".png",
+        "progress": [
+            "+ added in a key rebinding menu",
+            "+ added in gamepad config menu",
+            "+ added more houses+interiors",
+            "+ made lolis run to nearest toilet when they have to go + let them wet if they can't make it (integrated into utility AI)",
+            "- added in toddlers/babies",
+            "- added in the ability to cum all over the toddlers (ITS AWWWRIGHT)"
+        ]
+    },
+    "1511770827061": {
+        "game": "Mech Chip",
+        "name": "Plutoneus",
+        "tools": "GMS2, FL, LabChirp, Aseprite",
+        "web": "https://twitter.com/Plutoneus",
+        "scoring": "20 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added checkpoints",
+            "+ Added better textboxes with a more readable font",
+            "+ fixed known camera bugs in final room",
+            "- Added but then removed a simple map, hoping to recreate it in a much better, more flexible manner later",
+            "- All the progress from dd17 and now has been in preparation for future editions. Hopefully soon I'll get to the fun stuff. (just kidding it's all fun)"
+        ]
+    },
+    "1511771236432": {
+        "game": "Porro Viatica",
+        "name": "Plessy",
+        "tools": "Monogame",
+        "web": "teamessell.tumblr.com",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made Lightning and Graze.",
+            "+ All pieces of equipment are complete",
+            "+ Added a faction system.",
+            "+ Started on adventure mode's map system."
+        ]
+    },
+    "1511771404931": {
+        "game": "RRshooter",
+        "name": "boghog",
+        "tools": "GM:S",
+        "web": "https://boghog.itch.io/rrshooter",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Helicopter drones, jetski enemies and walking police robots",
+            "+ Some new props and backgrounds like the police car and distant forest",
+            "+ Made the boss patterns even easier",
+            "- Feeling like shit which is slowing down progress",
+            "- Art is too hard"
+        ]
+    },
+    "1511772652965": {
+        "game": "Jappu -Heart of Karina-",
+        "name": "takkongguy",
+        "tools": "rpgmmv",
+        "web": "takkongguy-blog.tumblr.com takkongguy.itch.io/",
+        "scoring": "192 [x2.5] - 4 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Making original tiles and sprite",
+            "- Still waiting translator to finish the translation for the demo"
+        ]
+    },
+    "1511776854063": {
+        "game": "Devil Engine",
+        "name": "shmoopdev",
+        "tools": "GMS,Photoshop,Aesprite",
+        "web": "shmoopdev.tumblr.com",
+        "scoring": "1327 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Stage 4 miniboss done",
+            "+ Latter half of stage 4 about half blocked out",
+            "+ Background for that getting done too",
+            "+ Clouds no longer break the law of physics and/or wind speed records",
+            "+ Added splash effects/trails for things close to the water on stage 4",
+            "+ Some stage 4 music progress"
+        ]
+    },
+    "1511781004772": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "scoring": "1173 [x10.0] - 33 streak",
+        "ext": ".png",
+        "progress": [
+            "+ More level design, balancing difficulty while making levels fun is hard",
+            "+ Several minor polishing tweaks like black swipe transition removing bridges and CRT shader moving a bit slower",
+            "+ Fixed shaders looking odd in non-square resolutions"
+        ]
+    },
+    "1511783543446": {
+        "game": "Infraction",
+        "name": "Foxar",
+        "tools": "C++/SFML",
+        "web": "https://github.com/Foxar/Infraction",
+        "scoring": "81 [x1.0]",
+        "ext": "s.jpg",
+        "progress": [
+            "+ Got the bullets to follow proper spread, firerate and bullets per gunshot properties dependent on currently held weapon",
+            "+ Began working on rudimentary infrastructure for floor entites (no more spamming sprites)"
+        ]
+    },
+    "1511784686949": {
+        "game": "Idol",
+        "name": "Marson",
+        "tools": "GMS",
+        "web": "https://twitter.com/MarsonNG",
+        "scoring": "15 [x1.5] - 2 streak",
+        "ext": ".gif",
+        "progress": [
+            "+ Created and added sounds",
+            "+ Implemented an audio looping manager that keeps track of all sounds and music (still will need more work as i progress)",
+            "+ Added collectables ",
+            "+ Added a death state"
+        ]
+    },
+    "1511791692059": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "scoring": "1073 [x10.0] - 31 streak",
+        "ext": ".jpg",
+        "progress": [
+            "- I'm still working on saving and loading stuff for the content creator, but it was a light week. Probably gonna be light this week too."
+        ]
+    },
+    "1511792156201": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "scoring": "1823 [x10.0] - 46 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Updated the project to Unity 2017.2",
+            "+ Fixed some bugs",
+            "+ Updated the cape with a dirtier texture and tattered edges",
+            "- Had to work on my other project (asset store plugin) which took time away from this one"
+        ]
+    },
+    "1511792701470": {
+        "game": "UW",
+        "name": "",
+        "tools": "Unity",
+        "web": "twitter.com/DuqueHayashi",
+        "scoring": "138 [x5.5] - 10 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Documented Game Design(GDD)",
+            "+ Detailed Game Flow & Design",
+            "+ Armor/Cover mechanic implemented",
+            "+ Unit detail UI added",
+            "+ \"Recon\" squad skill added",
+            "+ Interviewing potential part-time artist"
+        ]
+    },
+    "1511794233432": {
+        "game": "Vigil",
+        "name": "sgt3v, p1x3lbr41n",
+        "tools": "Unity, Aseprite",
+        "web": "https://vigilgame.tumblr.com/",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Game map completed",
+            "+ Stripper animation completed",
+            "+ Started working on stripclub scene",
+            "+ Speaking animation for main char",
+            "+ Laughing animation for main char",
+            "+ Created a demonstration scene for icon adventure features, walk, look, interact."
+        ]
+    },
+    "1511800073941": {
+        "game": "Vinyl Hunger 2000",
+        "name": "epiplon",
+        "tools": "Unity, Blender, Aseprite, Photoshop",
+        "web": "https://epiplon.itch.io/vinyl-hunger-2000",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ A week working on bitchy platforms",
+            "+ You can swim!"
+        ]
+    },
+    "1511804638299": {
+        "game": "Space Dementia",
+        "name": "rez",
+        "tools": "SFML/C++",
+        "web": "rezydev.tumblr.com",
+        "scoring": "544 [x2.5] - 4 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Healing items refill on save",
+            "+ Autosaving progress",
+            "+ Tweaks to sliding",
+            "+ Removed some activation problems for dash",
+            "+ Changed colliders lifecycle",
+            "+ Lots of bugfixes"
+        ]
+    },
+    "1511805268749": {
+        "game": "SloMoDo",
+        "name": "Dogma",
+        "tools": "Unreal Engine 4, HTC Vive",
+        "web": "https://twitter.com/CaptDreamcast",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Levels, levels and more levels",
+            "- Cutting it close this month"
+        ]
+    },
+    "1511806315880": {
+        "game": "MoGiSho (Moth Girl Shooter)",
+        "name": "WRIT",
+        "tools": "GM:S",
+        "web": "http://thirdkeyofsun.tumblr.com/, https://twitter.com/ThirdKeyOfSun",
+        "scoring": "299 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Finalized mechanics of high damage mode (Afterglow)",
+            "+ Art assets for verse 01 revival",
+            "+ Ultimate training dummy Cube-san returned which forced a rebalance of shot types",
+            "- Rebalancing already setting things back"
+        ]
+    },
+    "1511808199240": {
+        "game": "Cash Sample",
+        "name": "SlowDancer",
+        "tools": "RPG Maker MV, Photofiltre, Cubase 8, Internet, Water",
+        "web": "https://lemmyrodul.com",
+        "scoring": "195 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made a quick system for dialogs",
+            "- Need to continue Procedural System",
+            "- Huge audio composition backlog I'm on"
+        ]
+    },
+    "1511811065936": {
+        "game": "Two Chests Monday Night (working title)",
+        "name": "4Lv8Ninjas",
+        "tools": "Unity",
+        "web": "null",
+        "scoring": "5 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ Starting out",
+            "+ Most general exploration mechanics are working properly",
+            "- first map is kind of a mess with no purpose",
+            "- no combat yet"
+        ]
+    },
+    "1511813509224": {
+        "game": "Scrap Galaxy",
+        "name": "J3X",
+        "tools": "Unity",
+        "web": "http://www.scrapgalaxy.com/",
+        "scoring": "20 [x1.5] - 2 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Add achievement menu.",
+            "+ Add 3 new co-op levels",
+            "+ Fix minor issue with missiles.",
+            "+ Created IndieDB page and started writing articles.",
+            "- Release Friday this week, FML"
+        ]
+    },
+    "1511818019888": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame",
+        "web": "https://twitter.com/LKTheDev",
+        "scoring": "262 [x7.5] - 14 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Fucked around a ton with depth and glow, haven't gotten far at all, but still some progress at least.",
+            "+ Writen a bit of shader code for glowing objects",
+            "- Monogame makes a real big deal out of manually checking depth buffers for some reason.",
+            "- Slow week, stressed with life"
+        ]
+    },
+    "1511819418847": {
+        "game": "Kick-in'",
+        "name": "Kickindev",
+        "tools": "GM:S",
+        "web": "kickindev.tumblr.com",
+        "scoring": "1323 [x10.0] - 36 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Began rewriting how the game checks collision to resolve a number of inconsistencies and bugs related to how I was doing hitreg before."
+        ]
+    },
+    "1511822262036": {
+        "game": "Roly Poly (tbc)",
+        "name": "Cactuar18",
+        "tools": "Unity",
+        "web": "-",
+        "scoring": "5 [x1.0]",
+        "ext": ".gif",
+        "progress": [
+            "+ Moved all my work to a new computer",
+            "+ Fucked around with gravity and speed settings, feels a bit more intuitive now.",
+            "+ Controller support in",
+            "+ Added a 'lock gun' mode, a 'lock player' mode, and a button to set your gravity back to Vector2.down, which is great for getting height when jumping off walls.",
+            "- Should really learn tilemaps properly"
+        ]
+    },
+    "1511822910305": {
+        "game": "Good Night, Knight",
+        "name": "Knightdev",
+        "tools": "GM:S, Aseprite",
+        "web": "http://knightdev.tumblr.com/",
+        "scoring": "259 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Continued work on fire and panic effects"
+        ]
+    },
+    "1511824963669": {
+        "game": "ball game",
+        "name": "ball game",
+        "tools": "ball game",
+        "web": "- ball game",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ ball game",
+            "- ball game"
+        ]
+    },
+    "1511831648596": {
+        "game": "Khryse",
+        "name": "Khryse-dev",
+        "tools": "UE4",
+        "web": "https://khryse-dev.tumblr.com/",
+        "scoring": "356 [x8.5] - 16 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Grinding assets",
+            "- Not a lot of time to dev"
+        ]
+    },
+    "1511836058395": {
+        "game": "HACK the F.B.I.",
+        "name": "Vestigial",
+        "tools": "Unity",
+        "web": "@vestigialdev",
+        "scoring": "544 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Submitted demo for Steam approval",
+            "+ Made multicore/multithreading in the game",
+            "+ added a static Maker() function to classes to centralize instantiation",
+            "+ going to do a soft launch on Itchio probably",
+            "+ bug fixes for how conversation history is stored",
+            "+ thinking about how to make a pewpew cyberattack map and what it could be useful for"
+        ]
+    },
+    "1511844908297": {
+        "game": "Skylarks",
+        "name": "Mako",
+        "tools": "Rust, Logic, Blender",
+        "web": "https://mako.itch.io/skylarks",
+        "scoring": "1943 [x10.0] - 70 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Music that isn't the main menu bullshit for once",
+            "+ Added a phonetic representation mode to the lexicon deserializer"
+        ]
+    },
+    "1511845605145": {
+        "game": "Ctesiphon",
+        "name": "Stomy",
+        "tools": "C++/OpenGL, Blender, Krita",
+        "web": "stomygame.tumblr.com",
+        "scoring": "355 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ The C++ rewrite continues",
+            "+ Audio playback is now mostly on its own thread (mixing still done on master)",
+            "+ Cleaned up stream buffering to remove ugly sound cuts"
+        ]
+    },
+    "1511853839600": {
+        "game": "STD",
+        "name": "Toasty",
+        "tools": "C++\\SFML\\AseSprite\\Visual Studio",
+        "web": "null",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Updated art for tiles, arrows and goblins",
+            "+ Bomb(AoE) projectile with new tower",
+            "+ Buttons",
+            "+ A level select menu",
+            "+ Orb(Bounce) projectile with new tower.",
+            "- Need another art pass",
+            "- Need another refactor"
+        ]
+    },
+    "1511869559276": {
+        "game": "Within the Green",
+        "name": "Anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "scoring": "523 [x10.0] - 20 streak",
+        "ext": ".png",
+        "progress": [
+            "+ progressing on melee combat",
+            "- distracted by video games"
+        ]
+    },
+    "1511875922179": {
+        "game": "Monsters Among Friends (MAF)",
+        "name": "Lucky Wonton Studios",
+        "tools": "Unity3D",
+        "web": "https://monstersamongfriends.com (soon)",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Phase progression",
+            "+ Day/Night synchronized with phase time",
+            "+ Phase networking",
+            "+ Chat networking",
+            "+ Rudimentary player networking",
+            "- Finals coming up",
+            "- Could have done a better job with code organization with networking"
+        ]
+    },
+    "1511886929981": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "scoring": "262 [x7.5] - 14 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Writing the rough story elements and fleshing out Act 1",
+            "+ New NPC sprite",
+            "+ Drawing more dialogue sprites for the MCs",
+            "+ New map"
+        ]
+    },
+    "1511895138614": {
+        "game": "Galactic Pocket Billiards",
+        "name": "Sirrico-Net Games",
+        "tools": "GMS",
+        "web": "http://gpb.sirrico.net",
+        "scoring": "37 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Steam page up!",
+            "+ Rough drafts of all levels finished, only polish remains",
+            "+ Implemented \"drop zone\" where you can place your cue ball in some levels",
+            "+ Lots of bugs ironed out",
+            "- Is a game ever really done?"
+        ]
+    },
+    "1511906240158": {
+        "game": "The Rat King",
+        "name": "buttfield",
+        "tools": "GMS",
+        "web": "\"soon\"",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Made a new player sprite that's not as ugly",
+            "+ Revised player jump physics",
+            "- New jump physics broke swimming"
+        ]
+    }
+}

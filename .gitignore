@@ -3,7 +3,8 @@
 *.jpg
 *.gif
 *.otf
-*.min.css
 *.min.js
-debug
-debug.txt
+build/node
+build/output
+build/r.js
+legacy

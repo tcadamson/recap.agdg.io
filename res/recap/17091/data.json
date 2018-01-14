@@ -1,0 +1,535 @@
+{
+    "1505116723114": {
+        "game": "Sudokube",
+        "name": "Blank",
+        "tools": "Unity",
+        "web": "@PhilBlankGames",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Changed the name",
+            "+ Demo is up! Twitter is running!",
+            "+ Fixed a lot of things in preparation for Demo Day, turns out my file structure didn't work on other computers",
+            "+ Added extra graphics and music",
+            "- Irma is somehow pushing up into my state and the power lines might get knocked out"
+        ]
+    },
+    "1505117422574": {
+        "game": "Nox Striga",
+        "name": "Mez",
+        "tools": "Unity, Blender, Paint.Net, Gimp",
+        "web": "mezdritch (twitter/tumblr)",
+        "scoring": "262 [x7.5] - 14 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Still more tweaks to the cards, hands and board.",
+            "+ Simplified a bunch of mechanics again to make them feel more intuitive.",
+            "+ Trimmed the amount of cards for the base set (the rest still exists but will not be programmed yet) so that each class can be represented by what it does best for now.",
+            "+ State-Machine and UI control elements are being developed.",
+            "- Didn't touch the overworld. I feel like going even weirder on my themes now, the progression and landscapes don't even need to be this logical.",
+            "- UI still need tweaking and testing (thanks for the feedback)."
+        ]
+    },
+    "1505118088703": {
+        "game": "Ctesiphon",
+        "name": "Stomy",
+        "tools": "C++/OpenGL, Blender, Krita",
+        "web": "stomygame.tumblr.com",
+        "scoring": "221 [x4.0] - 7 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Gamma correction (linear color space)",
+            "+ Base actor system",
+            "+ Actor movement reimplemented",
+            "+ Player sounds & camera sway",
+            "+ Fixed a persistent race condition during loading",
+            "+ Fixed a memory leak involving textures",
+            "- Didn't get back to full functionality in time for Demo Day 16",
+            "+ C++ rewrite is 60% done, will be ready with new features for DD17"
+        ]
+    },
+    "1505118695420": {
+        "game": "Jappu -The heart of Karina-",
+        "name": "takkongguy",
+        "tools": "rpgmmv",
+        "web": "http://takkongguy-blog.tumblr.com/",
+        "scoring": "113 [x5.0] - 9 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Almost done all the cut scenes",
+            "+ Done over world sprite for the main characters"
+        ]
+    },
+    "1505120007310": {
+        "game": "Space Dementia",
+        "name": "rez",
+        "tools": "SFML/C++",
+        "web": "rezydev.tumblr.com",
+        "scoring": "473 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Boss health HUD",
+            "+ Added mortar upgrade",
+            "+ Added tunnel railing",
+            "+ Faster flamethrower",
+            "+ Changed wall kick",
+            "+ Wall kick attacks and parries",
+            "+ Buffed chain slide",
+            "+ Nerfed dash end momentum",
+            "+ Nerfed chain ledge grabs",
+            "+ Low pass filter",
+            "+ Updated reverb"
+        ]
+    },
+    "1505120949848": {
+        "game": "Within the Green",
+        "name": "Anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "scoring": "113 [x5.0] - 9 streak",
+        "ext": ".png",
+        "progress": [
+            "+ finished new revised npc portrait",
+            "+ finished new ground attack combo",
+            "+ made new level props",
+            "+ added second floor to the tavern",
+            "+ fixed pause menu highlighting bug",
+            "+ made a demo for demo day",
+            "- don't know how to approach transition animations"
+        ]
+    },
+    "1505121698049": {
+        "game": "Devil Engine",
+        "name": "shmoopdev",
+        "tools": "GMS,Photoshop,Aesprite",
+        "web": "shmoopdev.tumblr.com/",
+        "scoring": "1073 [x10.0] - 31 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Demo's out!",
+            "+ Lots of positive reception so far, main problems seem to be visibility and lack of control rebinds",
+            "+ Fixed some early demo bug reports, including sound inconsistency, level resting being broke, and homing shot's bomb lock being too random",
+            "- Was stuck away from home for extra long due to west coast being on fire, didn't get to make last minuet fixes before demo went live",
+            "- WINE shits the bed with inconsistent crash errors",
+            "- I guess I have to finally do rebindable controls now"
+        ]
+    },
+    "1505122358359": {
+        "game": "Negativa Poetica",
+        "name": "Lintire / Template and friends",
+        "tools": "Godot, Piksel, music stuff",
+        "web": "",
+        "scoring": "27 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Boss added",
+            "+ Generally just a long line of shit",
+            "+ Met Demo Day",
+            "- Game isn't fun or interesting",
+            "- Pussed out of leaving feedback"
+        ]
+    },
+    "1505123805890": {
+        "game": "[Placeholder Title]",
+        "name": "Ogier",
+        "tools": "GM:S, Aseprite",
+        "web": "https://twitter.com/Ogier_Dev https://ogierdev.tumblr.com",
+        "scoring": "237 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Gave boss hard/easy mode moveset and did adjustments",
+            "+ Added incomplete boss menu",
+            "+ Fixed a lot of bugs from demo day feedback",
+            "+ You can now daijoubu while using the keyboard",
+            "- Have to start making more art and video games are almost out"
+        ]
+    },
+    "1505123849816": {
+        "game": "Khryse",
+        "name": "Khryse-dev",
+        "tools": "UE4",
+        "web": "https://khryse-dev.tumblr.com/",
+        "scoring": "56 [x3.0] - 5 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ worked out the requirements for enemy parent class",
+            "+ worked out parent material for enemies",
+            "+ worked on the stamina and health indicator",
+            "+ cleaned up combat and movement for the demo day",
+            "+ fixed up a demo level",
+            "+ added menus",
+            "+ Got the demo for the demo day out",
+            "+ Got a lot of good feedback, which is the most important thing",
+            "+ started redoing some of the animations to feel better and looking into making a good jump"
+        ]
+    },
+    "1505126549279": {
+        "game": "Rocket Xeno",
+        "name": "Rocketdev / Randallized",
+        "tools": "Blender, Gimp, notepad++, GM1.4",
+        "web": "https://randallized.itch.io/rocket-xeno https://play.google.com/store/apps/details?id=com.companyname.Rocket_xeno",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Published game to google play",
+            "+ finished all levels",
+            "+ fixed tons of bugs",
+            "+ Found an Ad monetization system that is fair and not too annoying.",
+            "+ First version that can be called \"done\"",
+            "- still forever a whodev",
+            "- deleted windows version because it was bad and I should feel bad"
+        ]
+    },
+    "1505128692196": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame, Photoshop",
+        "web": "https://twitter.com/LKTheDev",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Demo is done!",
+            "+ Found major memory leaks whenever the player switched between levels. That is now fixed and the game is stable.",
+            "+ Reworked some of the sprites, made new backgrounds etc.",
+            "+ Added some NPCs to fill out the levels",
+            "+ Made tutorial signs"
+        ]
+    },
+    "1505129045222": {
+        "game": "Kick-in'",
+        "name": "Kickindev",
+        "tools": "Gamemaker Studio",
+        "web": "kickindev.tumblr.com",
+        "scoring": "773 [x10.0] - 25 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Released a build for DD16!",
+            "- I too, was expecting me to get more done over the past week than just that."
+        ]
+    },
+    "1505129678032": {
+        "game": "Mech Game I need to find a name for",
+        "name": "Tomo Ge",
+        "tools": "UE4, Blender, Gimp",
+        "web": "",
+        "scoring": "113 [x5.0] - 9 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Made a demo against all odds",
+            "+ Couple assets",
+            "+ Bugfixing",
+            "+ Feedback gives a good idea about what's wrong/right",
+            "- Took way too much time making the demo, don't have much progress overall."
+        ]
+    },
+    "1505130081673": {
+        "game": "SFTL : Slightly Faster Than Light",
+        "name": "AZ",
+        "tools": "Godot",
+        "web": "https://vidyadev.tumblr.com/",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Reworked code from scratch ",
+            "+ Tweaked doors and units ",
+            "+ Added systems terminal ",
+            "- Still not satisfied with it, but i've found a structure that will work better"
+        ]
+    },
+    "1505130164924": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "scoring": "523 [x10.0] - 20 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Working on a weapon selection system/pickups",
+            "+ More HUD stuff",
+            "- I had a problem with my computer that made me have to stop working on the game for a couple of days."
+        ]
+    },
+    "1505134988570": {
+        "game": "Cash Sample",
+        "name": "SlowDancer",
+        "tools": "RPG Maker MV :^), Photofiltre, Cubase 8, Internet, madness",
+        "web": "https://lemmyrodul.com/",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Grid Looting in progress",
+            "+ Started Medicine category",
+            "+ Next is Furnitures Range",
+            "- I'm losing a huge ton of time doing the art of items",
+            "- May have to show what my game looks like if people ask"
+        ]
+    },
+    "1505135063083": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "scoring": "623 [x10.0] - 22 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Animation Controller fully works now",
+            "+ Worked on the basic black swipe animation",
+            "+ Decided to simplify the structure a bit by making all objects in a level be part of the same Panel, having them all separate was more trouble than it was worth"
+        ]
+    },
+    "1505137977737": {
+        "game": "Pushy Cmulko",
+        "name": "Coppermoore",
+        "tools": "Pygame",
+        "web": "irc.freenode.net->#PushyCmulko",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Been reading about AI and writing down how to tie all my different tiers of AI together in my game",
+            "+ General ideaguying, especially on victory conditions in different level types",
+            "- Uni exams so no coding"
+        ]
+    },
+    "1505139066615": {
+        "game": "Seasons Past",
+        "name": "ambientdev",
+        "tools": "GM:S",
+        "web": "https://ambientdev.itch.io/seasons-past",
+        "scoring": "123 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ submitted a demo",
+            "+ added a juicy UI thing",
+            "+ feedback is that dialogue and exploration is good",
+            "- feedback is that combat is still shit as it has been for like 6 months despite different combat models each time"
+        ]
+    },
+    "1505141330093": {
+        "game": "Ironmash!",
+        "name": "Norby",
+        "tools": "Unity, Paint.net, Inkscape",
+        "web": "",
+        "scoring": "823 [x10.0] - 26 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Put the demo out!",
+            "- Had a lot of work that kept me busy this weekend, but",
+            "+ I'm now gonna play your demos! Keep up the good work!"
+        ]
+    },
+    "1505152630994": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Modular event system",
+            "+ Can now invoke other event types that inherit from base GameEvent",
+            "+ Item pickup events now store items into the inventory",
+            "+ Can combine items and use them to solve puzzles"
+        ]
+    },
+    "1505154721570": {
+        "game": "The Jackal",
+        "name": "AngryGhoust",
+        "tools": "Game Maker 1.4, Paint.NET, SAI",
+        "web": "https://angryghoust.tumblr.com/",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Released a Demo",
+            "+ Implemented an invincibility state on spawing",
+            "- Progress could be faster"
+        ]
+    },
+    "1505155252730": {
+        "game": "Super Crypto Land",
+        "name": "cryptolanddev",
+        "tools": "unity3d",
+        "web": "https://cryptogames.itch.io/super-crypto-land",
+        "scoring": "5 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ character and level select systems",
+            "+ loads of bug fixing",
+            "+ made some more hazards",
+            "+ added music and sounds",
+            "+ submitted demo to demo day"
+        ]
+    },
+    "1505157577838": {
+        "game": "HACK the FBI",
+        "name": "vestigial",
+        "tools": "unity",
+        "web": "@vestigialdev",
+        "scoring": "490 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made it to demoday with a minimally crashy build",
+            "+ Doing initial DD playthrough videos is progress"
+        ]
+    },
+    "1505158584680": {
+        "game": "Catgirl Pool Party",
+        "name": "Hik",
+        "tools": "Eclipse, Paint, GIMP, Notepad++",
+        "web": "hik.itch.io/catgirl-pool-party",
+        "scoring": "54 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "- Starting over for PC using C++/SDL",
+            "+ Made a game window / screen",
+            "+ Got a sprite image displayed on the screen",
+            "+ Animated the sprite",
+            "+ Made the sprite respond to player input",
+            "+ Displayed a background",
+            "+ Made dog girl sprite graphics"
+        ]
+    },
+    "1505159085257": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "scoring": "1273 [x10.0] - 35 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Submitted to Demo Day 16 and gathered feedback",
+            "+ Tried out suggestion from DD16 feedback: attack triggering on button press instead of button release, charged attack would blend current attack being done into charging. Still ironing it out."
+        ]
+    },
+    "1505173717289": {
+        "game": "Vampire's Bit",
+        "name": "VampireDev",
+        "tools": "Game Maker, Photoshop",
+        "web": "vampiredev.tumblr.com \u00b7 twitter.com/jcsvampire",
+        "scoring": "91 [x1.0]",
+        "ext": ".gif",
+        "progress": [
+            "+ Finished cleaning bonus stage background",
+            "+ Got rid of some old useless code",
+            "- Lowering the scope a little for the next demo",
+            "- Missed Demo Day"
+        ]
+    },
+    "1505174264101": {
+        "game": "Roguefall",
+        "name": "Roguedev",
+        "tools": "C, BearLibTerminal",
+        "web": "https://roguefall.tumblr.com/",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Implemented MapGen, FoV, basic AI, message log, console/sprite toggle, & simple items",
+            "+ Submitted a technical demo",
+            "+ Added some post-demo stuff like a camera that follows you & less awful colors/sprites",
+            "- All the easy shit is taken care of"
+        ]
+    },
+    "1505178288755": {
+        "game": "Crystal Chrysalis",
+        "name": "Kada",
+        "tools": "Unreal Engine, Blender",
+        "web": "",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Reworked some models",
+            "+ Added another character",
+            "+ Some basic lua script support for dialog ",
+            "+ Moving stuff from Unity and simplifying ",
+            "- Moving to UE4 for learning purposes ... also behavior trees, materials."
+        ]
+    },
+    "1505185689858": {
+        "game": "Shipwreck",
+        "name": "ELB",
+        "tools": "GMS 1.4",
+        "web": "",
+        "scoring": "22 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Great progress on inventory system",
+            "+ Added radial menu for tool selection",
+            "+ Created a framework for easily creating new tools",
+            "- 99% certain the radial menu is filled with edge case bugs"
+        ]
+    },
+    "1505186757683": {
+        "game": "Good Night, Knight",
+        "name": "Knightdev",
+        "tools": "GM:S, Aseprite",
+        "web": "http://knightdev.tumblr.com/",
+        "scoring": "69 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ AI improvements",
+            "+ Balances/fixes",
+            "+ Two new items",
+            "+ Character interaction system",
+            "+ A rudimentary tutorial",
+            "+ Shopping system"
+        ]
+    },
+    "1505187818867": {
+        "game": "Qutie Jetpack",
+        "name": "qtbeardev",
+        "tools": "Unity",
+        "web": "https://qutiestudios.itch.io/jetpack-qutie",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ made html build",
+            "+ release demo day demo",
+            "+ begun refactoring old stupid shit",
+            "+ preparing for finally releasing on mobile"
+        ]
+    },
+    "1505189489357": {
+        "game": "Skylarks",
+        "name": "Mako",
+        "tools": "Rust, Logic, Blender, SDL2",
+        "web": "http://mako.itch.io/skylarks",
+        "scoring": "1393 [x10.0] - 59 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Sorted out some shaky parts of the music",
+            "+ Refactored prefab stuff into separate libraries",
+            "- Gambled with time, and lost"
+        ]
+    },
+    "1505191161901": {
+        "game": "Gunsun Zeros",
+        "name": "GearSting",
+        "tools": "UE4, Blender, Paint.Net",
+        "web": "gearsting.tumblr.com twitter.com/GearSting",
+        "scoring": "30 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ health pack",
+            "+ more stuff on test level",
+            "+ shocker gun",
+            "+ enemy turn speed slows while shooting",
+            "+ ai improvements",
+            "+ bug fixes surrounding returning nones",
+            "+ nerf range on the guns",
+            "+ MADE A DEMO"
+        ]
+    },
+    "1505200731604": {
+        "game": "FTC",
+        "name": "RPG",
+        "tools": "UTY",
+        "web": "fleettacticalcommand.com",
+        "scoring": "96 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Reviewing new team members",
+            "+ Started work on character generator framework",
+            "- Artist dropped out",
+            "- not much progress this week"
+        ]
+    }
+}

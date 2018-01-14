@@ -1,0 +1,513 @@
+{
+    "1510565567092": {
+        "game": "Porro Viatica",
+        "name": "Plessy",
+        "tools": "Monogame",
+        "web": "teamessell.tumblr.com",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made new ship focused on speed and orbiting orbs.",
+            "+ Made new weapons: Laser, Charge, Reverse, Mines, Volley Missile, Dumb Missile, Ultimissile, Lance.",
+            "+ Made ships bounce properly"
+        ]
+    },
+    "1510566380105": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "scoring": "1723 [x10.0] - 44 streak",
+        "ext": ".jpg",
+        "progress": [
+            "- Recreated todo list in offline program Portable Kanban, due to flaky Internet connection",
+            "+ Added camera shake for attacks",
+            "+ Started implementing the prevent-damaging-through-walls functionality"
+        ]
+    },
+    "1510567333382": {
+        "game": "Devil Engine",
+        "name": "shmoopdev",
+        "tools": "GMS,Photoshop,Aesprite",
+        "web": "shmoopdev.tumblr.com/",
+        "scoring": "1300 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Level 4 mostly done",
+            "+ Added sprite scaling 3d for better depth",
+            "- Took it out because it screwed with gameplay too hard",
+            "+ Prototyping stage 4 miniboss",
+            "+ bigger buisnessdev gains"
+        ]
+    },
+    "1510567767581": {
+        "game": "SloMoDo",
+        "name": "Dogma",
+        "tools": "Unreal Engine 4, HTC Vive",
+        "web": "https://twitter.com/CaptDreamcast",
+        "scoring": "54 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made extremely threatening placeholder (as if) enemy AND gave him a gun",
+            "+ Created waiting room/title screen",
+            "+ Made VR Menu",
+            "+ Added Eye of the Medusa: Beyond to the collection",
+            "+ Remade Eye of the Medusa: Ultimate Frontier with Beyond's stuff and added it to the collection",
+            "- Feel pretty slo myself right now"
+        ]
+    },
+    "1510569254513": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "scoring": "973 [x10.0] - 29 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Remade a couple of things for the content creator",
+            "+ UI is starting to react and behave properly",
+            "- Still need to build object containers and save/load system."
+        ]
+    },
+    "1510572402035": {
+        "game": "Thuby's Game",
+        "name": "Thuby",
+        "tools": "Unity3D, Aseprite",
+        "web": "https://twitter.com/xthuby",
+        "scoring": "25 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Redid enemy system using scriptable objects",
+            "+ Redid combat system with scriptable objects",
+            "+ Added Wallmaster (Aka tall guy) he's there to obstruct the player",
+            "+ Redid the little guy's sprite.",
+            "- So much work..."
+        ]
+    },
+    "1510573179463": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "scoring": "1073 [x10.0] - 31 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Pixel grid shader",
+            "+ CRT hooked up to the bouncy springs",
+            "+ Juiced up the map, map toggle and black swipe animation",
+            "+ ESC to go back to the level hub and then again to quit the game",
+            "+ Fixed the player disappearing for one frame when switching levels",
+            "+ Many minor tweaks and fixes to shaders"
+        ]
+    },
+    "1510575235778": {
+        "game": "Lowpoly FPS",
+        "name": "Mr.Roboto, Theonian",
+        "tools": "UE4, Blender, Gimp",
+        "web": "http://theonian.tumblr.com/",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ shooting, location-based damage, killing",
+            "+ picking up ammo",
+            "- particle effects based on surface material",
+            "- view model arms with basic animations"
+        ]
+    },
+    "1510577166461": {
+        "game": "RRshooter",
+        "name": "boghog",
+        "tools": "GM:S",
+        "web": "https://boghog.itch.io/rrshooter",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made some new art assets and a new enemy type",
+            "+ Did more difficulty balancing",
+            "- Too many distractions getting in the way of progress",
+            "- Art is hard"
+        ]
+    },
+    "1510579813279": {
+        "game": "Sim Loli",
+        "name": "",
+        "tools": "C++",
+        "web": "/agdg/26682",
+        "scoring": "101 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Reworked crime system and made lolis run away screaming, then tell adults if they witness a crime.",
+            "+ Added keyboard/gamepad support for menus too.",
+            "+ Finished up basic functionality of action-choosing menu + action-binding",
+            "+ Implemented performing actions (strip, grab, chloroform, throw/drop item) + HUD to it.",
+            "+ Bunch of general input (keyboard/gamepad) work",
+            "- Punch action remains unimplemented despite being an option in the chooser."
+        ]
+    },
+    "1510580194873": {
+        "game": "Space Dementia",
+        "name": "rez",
+        "tools": "SFML/C++",
+        "web": "rezydev.tumblr.com",
+        "scoring": "527 [x1.5] - 2 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Fixed rendering on Intel",
+            "+ Fixed light source parallaxing on different aspect ratios",
+            "+ Initial death animation for a boss",
+            "+ More impact on player death",
+            "+ Crosshair has different sprite depending on aiming mode",
+            "+ Pistol projectiles are offset by player movement",
+            "+ Improved boss animation, added dodging and deflections",
+            "+ Fixed tile collision editor for custom sizing",
+            "+ Some minor bugfixes"
+        ]
+    },
+    "1510585779338": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame",
+        "web": "https://twitter.com/LKTheDev",
+        "scoring": "195 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ New Pause menu. Turning the game screen into a little CRT TV.",
+            "+ Been working on a shader for said effect",
+            "+ Made a small quest about finding a cat",
+            "- Messed around with a animation for the pause menu. It's ugly as sin and I think I'm just going to have to scrap it"
+        ]
+    },
+    "1510585863513": {
+        "game": "Nox Striga",
+        "name": "Mez",
+        "tools": "Unity, Blender, Paint.Net, Gimp",
+        "web": "mezdritch (twitter/tumblr)",
+        "scoring": "673 [x10.0] - 23 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ I'm working mainly on my GameOff jam game. However, I'm taking the opportunity to do various things in that game that will be directly applicable to Nox Striga. For example, you activate areas that trigger events, sending their stats to the the main game to handle while modifying their ui accordingly; So this will be useful to make activated or triggered abilities of cards. Also, both games are turn based so I can work on a proper state machine and fix the one in Nox Striga."
+        ]
+    },
+    "1510586197302": {
+        "game": "Infraction",
+        "name": "Polxar",
+        "tools": "C++, SFML",
+        "web": "https://foxar.itch.io/infraction",
+        "scoring": "76 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Added items and inventory systems.",
+            "+ Set up basic streamlined NPC thought process.",
+            "+ Set up some under-the-hood UI systems.",
+            "+ Added vision to NPCs.",
+            "- Still nothing to fucking show for it all."
+        ]
+    },
+    "1510586679678": {
+        "game": "Japu -Heart of Karina-",
+        "name": "takkongguy",
+        "tools": "rpgmmv",
+        "web": "takkongguy-blog.tumblr.com takkongguy.itch.io",
+        "scoring": "175 [x1.5] - 2 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Learning pixel drawing,start replacing vanilla rtp."
+        ]
+    },
+    "1510590733545": {
+        "game": "UW",
+        "name": "anon",
+        "tools": "",
+        "web": "twitter.com/DuqueHayashi",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Zuhra revised",
+            "+ Zuhra Chibi added",
+            "+ AI improvement",
+            "+ Item info UI(When mouse over)",
+            "+ Grenade started",
+            "+ Lots of bugs fixed"
+        ]
+    },
+    "1510591122261": {
+        "game": "Cash Sample",
+        "name": "SlowDancer",
+        "tools": "RPG Maker MV, Photofiltre, Cubase 8, Internet, Water",
+        "web": "https://lemmyrodul.com",
+        "scoring": "138 [x5.5] - 10 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Reworked GRID Looting implementation",
+            "+ Implemented a Medicine Cabinet Loot",
+            "+ Some few assets",
+            "+ Some reworks on global eventing",
+            "+ Loot Animation Bypass system",
+            "- Ears still fucked can't work on sound"
+        ]
+    },
+    "1510591884806": {
+        "game": "Khryse",
+        "name": "Khryse-dev",
+        "tools": "UE4",
+        "web": "https://khryse-dev.tumblr.com/",
+        "scoring": "279 [x7.5] - 14 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ started working on a buncha assets, need to lay off the gameplay;",
+            "+ figured out a smart way to remove almost all of weighting issues on the protag3;",
+            "- lots of other things to do, not enough time to dev."
+        ]
+    },
+    "1510593232907": {
+        "game": "Vinyl Hunger 2000",
+        "name": "epiplon",
+        "tools": "Unity, Blender, Aseprite",
+        "web": "https://epiplon.itch.io/vinyl-hunger-2000",
+        "scoring": "27 [x2.5] - 4 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Remade the texture of this character",
+            "+ Made a time rewind system"
+        ]
+    },
+    "1510598943345": {
+        "game": "Sudokube",
+        "name": "Blank",
+        "tools": "Unity",
+        "web": "@PhilBlankGames",
+        "scoring": "212 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ I now have a professional musician and am ditching the royalty free music",
+            "+ Added basic save file encryption",
+            "+ Redid the tutorial",
+            "+ Passed review and will be releasing in two days",
+            "- Only have two days left to polish",
+            "- One of the marketing things I was trying to do keeps running into problems"
+        ]
+    },
+    "1510601589672": {
+        "game": "The Jackal Cor Blaze",
+        "name": "AngryGhoust",
+        "tools": "GMS 1.4, Paint.NET, SAI",
+        "web": "https://angryghoust.tumblr.com",
+        "scoring": "138 [x5.5] - 10 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Refractored the combat rank code",
+            "+ Tweaked combat rank behavior",
+            "+ Laid the foundation for customizable hud features",
+            "+ Tweaked some sprites",
+            "+ Combined the spreadshot with the Burst mode shot",
+            "+ Eclipse burst mode shot is now a lot more versatile",
+            "+ Pickups now give power instead of energy"
+        ]
+    },
+    "1510606691971": {
+        "game": "Grey Noise",
+        "name": "",
+        "tools": "Monogame, Aesprite",
+        "web": "",
+        "scoring": "17 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ FoV Implemented",
+            "+ AI now uses path-finding to chase the player if the player can be seen",
+            "+ Basic skill system implement (Deal damage, heal target, Aoe and single targeting so far)",
+            "- FoV breaks when vision 'circle' goes off the map",
+            "- Lots of FoV artifacts"
+        ]
+    },
+    "1510615147267": {
+        "game": "Kick-in'",
+        "name": "Kickindev",
+        "tools": "GM:S",
+        "web": "kickindev.tumblr.com",
+        "scoring": "1223 [x10.0] - 34 streak",
+        "ext": ".png",
+        "progress": [
+            "- Nothing to really report for this week. Minor changes to things to stop Tonfa crashes."
+        ]
+    },
+    "1510615863038": {
+        "game": "Galactic Pocket Billiards",
+        "name": "Sirrico-Net Games",
+        "tools": "GMS",
+        "web": "https://sirrico.itch.io/galactic-pocket-billiards, http://store.steampowered.com/app/731860/Galactic_Pocket_Billiards/",
+        "scoring": "32 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Steam store page now live!",
+            "+ Updated demo with feedback from demo day",
+            "+ Added juice",
+            "- Need to tweak levels",
+            "- Need to make new trailer",
+            "- Maybe introduced some new bugs by accident"
+        ]
+    },
+    "1510630492045": {
+        "game": "Within the Green",
+        "name": "Anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "scoring": "426 [x9.5] - 18 streak",
+        "ext": ".png",
+        "progress": [
+            "+ created/edited new font",
+            "+ setup font for unity"
+        ]
+    },
+    "1510637397652": {
+        "game": "Skylarks",
+        "name": "Mako",
+        "tools": "Rust, Logic, Blender",
+        "web": "https://mako.itch.io/skylarks",
+        "scoring": "1843 [x10.0] - 68 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Messed around with AOT native code generation at basic block granularity",
+            "+ Music",
+            "- What the fuck is a 5/8 time signature"
+        ]
+    },
+    "1510633442406": {
+        "game": "Vigil",
+        "name": "sgt3v, p1x3lbr41n",
+        "tools": "Unity, Aseprite",
+        "web": "https://vigilgame.tumblr.com",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Finished drawing a quarter of the game map.",
+            "+ Draw two new NPC avatar.",
+            "+ Draw two new phone.",
+            "+ Developed new ideas about game map and usage of phones.",
+            "- Needed to finish the map already.",
+            "- A couple of new backgrounds for the demo."
+        ]
+    },
+    "1510633757652": {
+        "game": "Flatlanders",
+        "name": "",
+        "tools": "Unity, blender, gimp",
+        "web": "https://flatlandersgame.tumblr.com",
+        "scoring": "5 [x1.0]",
+        "ext": ".gif",
+        "progress": [
+            "+ Color selector",
+            "+ Hatch ui"
+        ]
+    },
+    "1510637024191": {
+        "game": "STD",
+        "name": "Toasty",
+        "tools": "C++\\SFML\\AseSprite\\Visual Studio",
+        "web": "null",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Data driven enemies",
+            "+ Tilemap loading\\rendering with path generation",
+            "+ Data driven towers",
+            "+ Spending\\Gaining gold",
+            "+ Base health",
+            "+ Cursor for tower placement",
+            "- Actual art",
+            "- Waves and Levels",
+            "- Game end state",
+            "- Refactor",
+            "- Projectiles",
+            "- Fix render order",
+            "- Menu",
+            "- Animations"
+        ]
+    },
+    "1510639477003": {
+        "game": "Unknown World",
+        "name": "Dewdneym",
+        "tools": "RPG Maker VX Ace",
+        "web": "dewdneym.tumblr.com",
+        "scoring": "96 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Restructuring my intro after getting some demo day feedback",
+            "+ Adjusted some shit like resolution, also based on demo day feedback",
+            "- That's it. Need to do more."
+        ]
+    },
+    "1510646319057": {
+        "game": "Ctesiphon",
+        "name": "Stomy",
+        "tools": "C++/OpenGL, Blender, Krita",
+        "web": "stomygame.tumblr.com",
+        "scoring": "350 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ The C++ rewrite continues",
+            "+ Fixed an annoying race condition in file queue",
+            "+ Separating audio playback into its own thread",
+            "- Doing so has fucked up audio playback"
+        ]
+    },
+    "1510647617297": {
+        "game": "Good Night, Knight",
+        "name": "Knightdev",
+        "tools": "GM:S, Aseprite",
+        "web": "http://knightdev.tumblr.com/",
+        "scoring": "202 [x5.5] - 10 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Work on new enemy pretty much finished, for now",
+            "+ Many more improvements to pushback",
+            "+ More work on how balance works, think it's finished",
+            "- Removed autopeeking when near corners, manual peeking anywhere works better"
+        ]
+    },
+    "1510663668703": {
+        "game": "Bustas placeholder platformer",
+        "name": "Busta",
+        "tools": "GMS 1.4",
+        "web": "None",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Actual sprites based on state",
+            "+ Double jump refreshers, think IWBTB",
+            "+ Speed increase pickups",
+            "+ More solid objects, clingable and slippery",
+            "- No actual state machine yet, total spaghetti code",
+            "- Haven't decided on theme yet",
+            "- No enemies yet"
+        ]
+    },
+    "1510665502755": {
+        "game": "HACK the F.B.I.",
+        "name": "vestigial",
+        "tools": "unity",
+        "web": "",
+        "scoring": "517 [x2.5] - 4 streak",
+        "ext": ".png",
+        "progress": [
+            "+ talking shit on social media",
+            "+ Indiegogo doesn't apparently publish your real name",
+            "- Trailer is baked to say kickstarter",
+            "+ Wikileaks Twitter DM'ed Trumps son a password that they 'guessed', out of generosity",
+            "+ Thats total bullshit and there's something else going on"
+        ]
+    },
+    "1510680376821": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "scoring": "195 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added 4 new maps",
+            "+ Added new enemy",
+            "+ Debugging input manager and save/load manager",
+            "- Taking a few days off after a long time, a bit burned out"
+        ]
+    }
+}

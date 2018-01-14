@@ -1,0 +1,370 @@
+{
+    "1512990272060": {
+        "game": "Space Dementia",
+        "name": "rez",
+        "tools": "SFML/C++",
+        "web": "rezydev.tumblr.com",
+        "wildcard": "santa",
+        "scoring": "571 [x3.5] - 6 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added dragonbones integration",
+            "+ Added component for enemy retailation",
+            "+ New move for boss, changed shooting",
+            "+ Practiced animation",
+            "+ Tested json exporting"
+        ]
+    },
+    "1512991686592": {
+        "game": "Devil Engine",
+        "name": "shmoopdev",
+        "tools": "GMS,photoshop,aesprite",
+        "web": "shmoopdev.tumblr.com/",
+        "wildcard": "cane",
+        "scoring": "1364 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Stage 4 boss around halfway done",
+            "+ Fixed some crash bugs that poped up while I wasn't looking",
+            "+ Fixed controllers getting really weird if you have more than one plugged in",
+            "+ Some performance optimizations around blend mode fuckery"
+        ]
+    },
+    "1512993023114": {
+        "game": "The Golden Age",
+        "name": "Dogma",
+        "tools": "C, KallistiOS, SDL2, Emscripten",
+        "web": "https://twitter.com/CaptDreamcast",
+        "wildcard": "snowman",
+        "scoring": "138 [x5.5] - 10 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Made Hackathon Simulator 2017 and won a chocolate santa which tasted surprisingly good",
+            "+ Added the rest of the games to the collection",
+            "- Still a week behind schedule"
+        ]
+    },
+    "1512993348519": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "wildcard": "snowman",
+        "scoring": "1173 [x10.0] - 33 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Fixed a bug that would cause Unity to go through an infinite loop when selecting a file to load.",
+            "- Still need to fix the issue of the background of layered UI elements being interactive when foreground elements are active. Any suggestions would be nice."
+        ]
+    },
+    "1512994227777": {
+        "game": "Ghost Knight Victis",
+        "name": "Anomalous Underdog",
+        "tools": "Unity, Blender, Substance Painter, Photoshop CC",
+        "web": "hypertensiongamedev.tumblr.com",
+        "wildcard": "snowman",
+        "scoring": "1923 [x10.0] - 48 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Designed a new look for the player's health and stamina bars to replace the free placeholder ones.",
+            "+ Added visual indication when player stamina is almost empty."
+        ]
+    },
+    "1512995406362": {
+        "game": "Fantasy Reign",
+        "name": "Henez",
+        "tools": "GM:S",
+        "web": "https://www.youtube.com/user/HenezRS",
+        "wildcard": "snowman",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Added preamble scenes before beginning quests",
+            "+ Uploaded skill demo vid"
+        ]
+    },
+    "1512995918369": {
+        "game": "UW",
+        "name": "anon",
+        "tools": "Unity",
+        "web": "twitter.com/DuqueHayashi",
+        "wildcard": "snowman",
+        "scoring": "195 [x6.5] - 12 streak",
+        "ext": "s.jpg",
+        "progress": [
+            "+ Flanking behavior revised",
+            "+ Story simplified",
+            "+ New art style options narrowed",
+            "+ UI improvements",
+            "+ Minor bugs",
+            "+ Reviewing core gameplay(on how much control player gets)"
+        ]
+    },
+    "1512996618408": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame",
+        "web": "https://twitter.com/LKTheDev",
+        "wildcard": "santa",
+        "scoring": "339 [x8.5] - 16 streak",
+        "ext": ".gif",
+        "progress": [
+            "+ Content creation this week, added 2 new character and finished a quest",
+            "+ Started working a new enemy, resembles a very aggressive snake right now"
+        ]
+    },
+    "1513005538008": {
+        "game": "Project Alchemist",
+        "name": "ArAdev",
+        "tools": "Godot, Krita",
+        "web": "Null",
+        "wildcard": "snowman",
+        "scoring": "5 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Worked on first combat mechanics",
+            "+ Worked in in basic AI",
+            "- The impalement mechanic still don`t work when flipping the character"
+        ]
+    },
+    "1513005690237": {
+        "game": "Infraction",
+        "name": "Foxar",
+        "tools": "C++/SFML",
+        "web": "https://foxar.itch.io/infraction",
+        "wildcard": "santa",
+        "scoring": "93 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added a loading bar",
+            "+ Fixed some map loading issues",
+            "+ Started a bit of an art style overhaul"
+        ]
+    },
+    "1513010561913": {
+        "game": "Harmon:i:c",
+        "name": "AWK",
+        "tools": "Godot",
+        "web": "https://awk.itch.io/harmonic, https://twitter.com/AWKgamedev, https://awkgamedev.tumblr.com/",
+        "wildcard": "santa",
+        "scoring": "1273 [x10.0] - 35 streak",
+        "ext": ".png",
+        "progress": [
+            "+ More level design",
+            "- Having a hard time balancing difficulty and fun",
+            "- Didn't get much done"
+        ]
+    },
+    "1513017864595": {
+        "game": "Unnamed UE4 ProcGen Test",
+        "name": "Nori",
+        "tools": "UE4, Blender, GIMP",
+        "web": "https://norimousedev.tumblr.com/",
+        "wildcard": "santa",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Implemented roaming AI characters that use navmesh",
+            "+ AI characters have a chance while roaming to choose a random item in range, walk to it, and put it in their inventory",
+            "+ Started work on NPC dialogue stuff",
+            "- NPCs will try to hunt down items held by other NPCs. Posssible feature?"
+        ]
+    },
+    "1513028267293": {
+        "game": "Galactic Pocket Billiards",
+        "name": "Sirrico-Net Games",
+        "tools": "GMS",
+        "web": "http://gpb.sirrico.net",
+        "wildcard": "snowman",
+        "scoring": "49 [x2.0] - 3 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Fixed some bugs",
+            "+ Started working on release date trailer",
+            "- Waiting on art from the artist",
+            "- Probably going to do nothing this week because I'm graduating from college and want to finally take a break"
+        ]
+    },
+    "1513034259322": {
+        "game": "Vinyl Hunger 2000",
+        "name": "epiplon",
+        "tools": "Unity, Blender, Hammer, Aseprite",
+        "web": "https://epiplon.itch.io/vinyl-hunger-2000",
+        "wildcard": "snowman",
+        "scoring": "91 [x4.5] - 8 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Added wobbling effect for sprites",
+            "+ Swimming works fine",
+            "+ Camera kick when falling",
+            "+ Camera leaning working fine"
+        ]
+    },
+    "1513037585968": {
+        "game": "RRshooter",
+        "name": "boghog",
+        "tools": "GM:S",
+        "web": "https://boghogdev.tumblr.com/",
+        "wildcard": "santa",
+        "scoring": "71 [x4.0] - 7 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Finished the layout of the first level",
+            "+ Done with the first phase of the snake boss",
+            "+ 1/3 done with the second half",
+            "+ Got a tumblr",
+            "- Still no luck with music, hate everything I make"
+        ]
+    },
+    "1513037804639": {
+        "game": "Vigil",
+        "name": "sgt3v, p1x3lbr41n",
+        "tools": "Unity, Aseprite",
+        "web": "https://vigilgame.tumblr.com",
+        "wildcard": "santa",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ almost finished hideout scene drawing",
+            "- motivation",
+            "- will to live"
+        ]
+    },
+    "1513043354524": {
+        "game": "MoGiSho (Moth Girl Shooter)",
+        "name": "WRIT",
+        "tools": "GM:S",
+        "web": "http://thirdkeyofsun.tumblr.com/, https://twitter.com/ThirdKeyOfSun",
+        "wildcard": "cane",
+        "scoring": "304 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Slow but steady redesign of stage for demo",
+            "- Breaking everything revealing how fragile the initial code actually was"
+        ]
+    },
+    "1513049471172": {
+        "game": "Generic Zombie Shooter Redux",
+        "name": "Generic Dev",
+        "tools": "Java, Slick2D",
+        "web": "None",
+        "wildcard": "santa",
+        "scoring": "32 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ corrected sentry gun rotation to properly follow and shoot at targets",
+            "- realized too late that Slick2D doesn't have decent alpha/color blending support"
+        ]
+    },
+    "1513055018593": {
+        "game": "Sim Loli",
+        "name": "Anon",
+        "tools": "C++",
+        "web": "/agdg/26682",
+        "wildcard": "cane",
+        "scoring": "205 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Bugfixes galore. Dungeon editing GUI less broken now",
+            "+ Performance improvements. Now runs twice as fast roughly.",
+            "+ Depth-sorting issues",
+            "- Debugging sucks"
+        ]
+    },
+    "1513056691288": {
+        "game": "Elemental Knight",
+        "name": "anon",
+        "tools": "Unity",
+        "web": "https://jasonpkgames.tumblr.com/",
+        "wildcard": "snowman",
+        "scoring": "358 [x1.0]",
+        "ext": ".jpg",
+        "progress": [
+            "+ Got in health, upgrading mechanic, timer, and pretty much the entire flying mechanics. Starting work on the ship dungeon.",
+            "- As usual, just a lack of time."
+        ]
+    },
+    "1513061696527": {
+        "game": "Within the Green",
+        "name": "Anon",
+        "tools": "Unity, gimp",
+        "web": "https://teamsolotent.tumblr.com/",
+        "wildcard": "snowman",
+        "scoring": "623 [x10.0] - 22 streak",
+        "ext": ".png",
+        "progress": [
+            "+ worked on sprites",
+            "- will be away from a computer next week"
+        ]
+    },
+    "1513064301484": {
+        "game": "Wizard Simulator",
+        "name": "Whynne",
+        "tools": "Unity + SteamVR",
+        "web": "wizardsim.tumblr.com",
+        "wildcard": "santa",
+        "scoring": "10 [x1.5] - 2 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added magical armament visual effect",
+            "+ Added unique missile/bubble variants",
+            "- Need to rework beam mechanics to play well with new shaders"
+        ]
+    },
+    "1513103948899": {
+        "game": "HACK the F.B.I.",
+        "name": "Vestigial",
+        "tools": "Unity",
+        "web": "@vestigialdev",
+        "wildcard": "santa",
+        "scoring": "581 [x4.5] - 8 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Scenario scripting is getting smooth",
+            "- feeling like having to micromanage every step of the players progress with explanations",
+            "- don't censor the recap"
+        ]
+    },
+    "1513107470089": {
+        "game": "Cash Sample",
+        "name": "SlowDancer",
+        "tools": "RPG Maker MV, Photofiltre, Cubase 8, Internet, Water",
+        "web": "https://lemmyrodul.com",
+        "wildcard": "snowman",
+        "scoring": "262 [x7.5] - 14 streak",
+        "ext": ".png",
+        "progress": [
+            "- Literally Nothing",
+            "- Almost done with audiowork backlog"
+        ]
+    },
+    "1513110015603": {
+        "game": "Porro Viatica",
+        "name": "Plessy",
+        "tools": "Monogame",
+        "web": "teamessell.tumblr.com",
+        "wildcard": "snowman",
+        "scoring": "76 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Reworking the game with better assets due to picking up an artist."
+        ]
+    },
+    "1513110079068": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "wildcard": "snowman",
+        "scoring": "339 [x8.5] - 16 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Unified 4 separate inventory systems into one modular manager",
+            "+ 20 or so item icons",
+            "+ New map",
+            "+ More dialogue sprites for the MCs",
+            "+ Divided inventory stuff into 4 categories: Artefacts, Weapons, Items and Quest",
+            "+ Writing NPC conversations and quests"
+        ]
+    }
+}
