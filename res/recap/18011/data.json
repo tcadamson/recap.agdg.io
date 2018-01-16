@@ -1,0 +1,225 @@
+{
+    "1515429680063": {
+        "game": "Bullet Hell Lane Shooter",
+        "name": "ADMAN",
+        "tools": "Unity, Blender",
+        "web": "https://sgtadman.itch.io/untitled-bullet-hell-game",
+        "scoring": "1373 [x10.0] - 37 streak",
+        "ext": ".jpg",
+        "progress": [
+            "- Re-evaluating what I'm working on."
+        ]
+    },
+    "1483976641888": {
+        "game": "Unnamed UE4 ProcGen Test",
+        "name": "Nori",
+        "tools": "UE4, Blender, GIMP",
+        "web": "https://norimousedev.tumblr.com/",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Fixed a bunch of bugs that were found during Demo Day",
+            "+ Implemented vehicles; made them enterable and accepting of inputs from the driver"
+        ]
+    },
+    "1515488017886": {
+        "game": "Sim Loli",
+        "name": "Anon",
+        "tools": "C++",
+        "web": "/agdg/26682",
+        "scoring": "349 [x8.5] - 16 streak",
+        "ext": ".png",
+        "progress": [
+            "+ some bugfixes for stuff reported for the demo",
+            "- not much else I have the flu :("
+        ]
+    },
+    "1515595509793": {
+        "game": "HACK the F.B.I.",
+        "name": "Vestigial",
+        "tools": "Unity",
+        "web": "@vestigialdev",
+        "scoring": "685 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Experimented with saving code into assemblies that ",
+            "+ Submitted something to demoday"
+        ]
+    },
+    "1515611279156": {
+        "game": "Cash Sample",
+        "name": "SlowDancer",
+        "tools": "RPG Maker MV, Photofiltre, Cubase 8, Internet, Water",
+        "web": "https://lemmyrodul.com",
+        "scoring": "426 [x9.5] - 18 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Drew some Furnitures",
+            "+ Tweaked database to suit my needs",
+            "- Where is recap guy"
+        ]
+    },
+    "1515967452887": {
+        "game": "Horror JRPG",
+        "name": "LoneBuckshot",
+        "tools": "Unity",
+        "web": "https://twitter.com/LoneBuckshot & https://lonebuckshot.tumblr.com/",
+        "scoring": "523 [x10.0] - 20 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Added a new cutscene",
+            "+ New battle song",
+            "+ Added two new items",
+            "+ Testing XInput gamepads",
+            "Submitting this for Week 1 2018. Nice to see you back!"
+        ]
+    },
+    "1515968632212": {
+        "game": "[Placeholder Title]",
+        "name": "Ogier",
+        "tools": "Godot, Aseprite",
+        "web": "https://ogierdev.tumblr.com https://twitter.com/Ogier_Dev",
+        "scoring": "257 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Refactored title screen menu so now it's more organized",
+            "+ Boss section of title screen now has increased functionality; Can examine skills to see what they do and take a look at boss statistics",
+            "- Still more GUI work to go so still nothing fancy, but almost done with the title screen at this point"
+        ]
+    },
+    "1515970056660": {
+        "game": "Devil Engine",
+        "name": "shmoopdev",
+        "tools": "GMS,Photoshop,Aesprite",
+        "web": "shmoopdev.tumblr.com/",
+        "scoring": "1468 [x6.5] - 12 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Stage 5 part 1 mostly blocked out",
+            "+ Stage 5 miniboss around half way done",
+            "- Art is a fuck",
+            "- Buisnessdev was the worst idea",
+            "+ Buisnessdev was the best idea"
+        ]
+    },
+    "1515970095747": {
+        "game": "Sweet Fukushu",
+        "name": "LK",
+        "tools": "Monogame",
+        "web": "https://twitter.com/LKTheDev",
+        "scoring": "473 [x10.0] - 19 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Got my new demo ready for DD18",
+            "+ Finished up a quest involving getting a cat for a old lady",
+            "+ New event and quest is begging to take form",
+            "+ Started up a trello, before I've only used sticky notes on the walls of my room."
+        ]
+    },
+    "1515971849365": {
+        "game": "MoGiSho (Moth Girl Shooter)",
+        "name": "WRIT",
+        "tools": "GM:S",
+        "web": "http://thirdkeyofsun.tumblr.com/, https://twitter.com/ThirdKeyOfSun",
+        "scoring": "309 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Completed redesign of gauge filling mechanic",
+            "+ Combined and balanced burst shot types to lessen confusion during moth select",
+            "+ Cut as much 'dead' code out as possible ",
+            "+ Have a clear, set schedule for completing milestones and tentative release window",
+            "- So much art to do",
+            "- Still a multitude of defunct code and variables littering the project",
+            "- The last half year has essentially been prototyping, testing, second guessing and redesigning trying to have fun with my project",
+            "+ I have finally made it feel fun to me and this is the final design going forward"
+        ]
+    },
+    "1515973680563": {
+        "game": "RolyPoly",
+        "name": "Cactuar18",
+        "tools": "Unity",
+        "web": "",
+        "scoring": "22 [x2.0] - 3 streak",
+        "ext": ".gif",
+        "progress": [
+            "+ Water shader",
+            "+ Co-op",
+            "+ Pausing",
+            "+ So many little things"
+        ]
+    },
+    "1515985229083": {
+        "game": "Unknown World",
+        "name": "Dewdneym",
+        "tools": "Rpg Maker VX Ace",
+        "web": "dewdneym.tumblr.com/",
+        "scoring": "116 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ Started making tiles for the next dungeon",
+            "+ Added 8 way movement script",
+            "+ Started writing story event for Spirit Woods dungeon",
+            "+ Hired a musician (https://soundcloud.com/toeby_hook)",
+            "- going on a trip in a few days, won't be able to work"
+        ]
+    },
+    "1515985946007": {
+        "game": "Mech Chip",
+        "name": "Plutoneus",
+        "tools": "GMS2, Labchirp, FL 12, Aseprite",
+        "web": "twitter.com/Plutoneus",
+        "scoring": "32 [x1.0]",
+        "ext": ".png",
+        "progress": [
+            "+ A boss",
+            "+ A map",
+            "- Many flaws but I'm working on it",
+            "- Core mechanics need tweaking"
+        ]
+    },
+    "1515986738021": {
+        "game": "UW",
+        "name": "anon",
+        "tools": "Unity",
+        "web": "twitter.com/DuqueHayashi",
+        "scoring": "299 [x8.0] - 15 streak",
+        "ext": "s.jpg",
+        "progress": [
+            "+ New map UI",
+            "+ Player unit controls",
+            "+ Squad order system",
+            "+ New Zuhra art",
+            "+ Combat records/result"
+        ]
+    },
+    "1515988540197": {
+        "game": "Project Alchemist",
+        "name": "ArAdev",
+        "tools": "Godot , Krita, Paint.net",
+        "web": "https://aradev.itch.io/project-alchemist",
+        "scoring": "39 [x3.0] - 5 streak",
+        "ext": ".png",
+        "progress": [
+            "+ Tune up some last details for the demo ",
+            "+ Submitted first demo of the game for demo day 18",
+            "- Demo is very unpolished",
+            "- The demo is very buggy",
+            "- The demo is very cryptic with the actions because I didn't have time to make a proper tutorial level",
+            "Should I submit already the next recap?"
+        ]
+    },
+    "1516011226171": {
+        "game": "Space Dementia",
+        "name": "rez",
+        "tools": "SFML/C++",
+        "web": "rezydev.tumblr.com",
+        "scoring": "655 [x5.5] - 10 streak",
+        "ext": ".jpg",
+        "progress": [
+            "+ Knockbacks on enemies to allow aggressive counters",
+            "+ Refactor for player display state",
+            "+ Updated reverb",
+            "+ Changed dodge mechanics and visuals"
+        ]
+    }
+}
