@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title><%=htmlWebpackPlugin.options.title%></title>
+    </head>
+    <body>
+        <div class="bar">
+            <ul>
+                <li><a href="http://recap.agdg.io">home</a></li>
+                <li><a href="http://recap.agdg.io/info">info</a></li>
+                <li><a href="http://recap.agdg.io/archive">archive</a></li>
+                <li><a href="http://recap.agdg.io/scores">scores</a></li>
+                <li><a href="http://recap.agdg.io/games">games</a></li>
+            </ul>
+        </div>
+        <div class="content content--v">
+            <h2>general</h2>
+            <div class="box">
+                <p>The scraper runs every hour, querying live and archived threads. All file types supported by /vg/ are supported by the recap. If you don't include a file with your recap post, a default picture will be used.<br><br>Week start time: Monday, 12am UTC<br>File aspect ratio: 16:9<br>File dimensions: 640:360 (list), 416:234 (catalog)</p>
+            </div>
+            <h2>format</h2>
+            <div class="box">
+                <p>The basic format is as follows:<br><br>:: [title] ::<br>dev ::<br>tools ::<br>web ::<br>progress ::<br><br>Do not include the brackets when entering your game's title. If you make a post including :: [title] :: and at least one of the other fields, you'll get into the recap. There is no explicit registration step. Note that if you enter your title incorrectly, it will be treated as a new game, so be sure to double-check.<br><br><a href="http://recap.agdg.io/res/examples.png" target="_blank">(Click here for examples and further explanation)</a></p>
+            </div>
+            <h2>scoring</h2>
+            <div class="box">
+                <p>When you begin a recap streak, a "scoring block" is assigned describing how many points you've earned during that streak. This will vary based on how often you post. Blocks are calculated using the following function:<br><br>f(s, n) = s(s + 3) + 3((n - s + 1)ln(n - s + 1) - n)<br>s: streak counter<br>n: number of recap posts<br><br>If you only post once per week, n = s, and your scoring block is simply the square of your streak count. Multiple posts per week will increase your n to s ratio and net you extra points. Your game's total score is simply the sum of all your scoring blocks.</p>
+            </div>
+        </div>
+    </body>
+</html>

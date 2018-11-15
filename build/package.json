@@ -1,0 +1,34 @@
+{
+    "name": "build",
+    "version": "1.0.0",
+    "description": "",
+    "main": "webpack.config.js",
+    "scripts": {
+        "build": "del output /Q && webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-preset-env": "^1.7.0",
+        "css-loader": "^1.0.0",
+        "extract-text-webpack-plugin": "^4.0.0-beta.0",
+        "html-webpack-exclude-assets-plugin": "0.0.7",
+        "html-webpack-plugin": "^3.2.0",
+        "i": "^0.3.6",
+        "mini-css-extract-plugin": "^0.4.1",
+        "node-sass": "^4.9.2",
+        "npm": "^6.4.1",
+        "optimize-css-assets-webpack-plugin": "^5.0.0",
+        "sass-loader": "^7.1.0",
+        "svg-inline-loader": "^0.8.0",
+        "uglifyjs-webpack-plugin": "^1.2.7",
+        "webpack": "^4.16.5",
+        "webpack-cli": "^3.1.0"
+    },
+    "dependencies": {
+        "reset-css": "^4.0.1"
+    }
+}
