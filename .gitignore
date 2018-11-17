@@ -1,3 +1,4 @@
 *.svg
+*.ico
 build/*/
 backup

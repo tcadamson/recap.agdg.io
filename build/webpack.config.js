@@ -29,43 +29,54 @@ let rules = [
     }
 ];
 let plugins = [
-    new html({
-        title: "Home",
-        template: "../index.html",
-        chunks: ["core", "index"]
-    }),
-    new html({
-        title: "Info",
-        filename: "info.html",
-        template: "../info.html",
-        chunks: ["core"]
-    }),
-    new html({
-        title: "Archive",
-        filename: "archive.html",
-        template: "../archive.html",
-        chunks: ["core", "archive"]
-    }),
-    new html({
-        title: "Scores",
-        filename: "scores.html",
-        template: "../archive.html",
-        chunks: ["core", "scores"]
-    }),
-    new html({
-        title: "Games",
-        filename: "games.html",
-        template: "../archive.html",
-        chunks: ["core", "games"]
-    }),
-    new html({
-        filename: "view.html",
-        template: "../view.html",
-        chunks: ["core", "view"],
-        excludeAssets: [/res\/.*\.css/]
-    }),
+    {title: "Home", template: true},
+    {title: "Info", template: true},
+    {title: "Archive", template: true},
+    {title: "Scores"},
+    {title: "Games"},
+    {title: "View", template: true},
     new exclude()
 ];
+
+module.exports = {
+    entry: {
+        core: "../js/core.js",
+        index: "../js/index.js",
+        archive: "../js/archive.js",
+        scores: "../js/scores.js",
+        games: "../js/games.js",
+        view: "../js/view.js"
+    },
+    output: {
+        path: path.resolve(__dirname, "output"),
+        filename: "[name].[chunkhash].js",
+    },
+    optimization: {
+        minimizer: [
+            new min.js(),
+            new min.css()
+        ]
+    },
+};
+
+for (let i = 0; i < plugins.length; i++) {
+    let build = plugins[i];
+    if (build.title) {
+        let resolved = build.title.toLowerCase().replace("home", "index");
+        let chunks = ["core"];
+        if (module.exports.entry[resolved]) {
+            chunks.push(resolved);
+        }
+        build = new html({
+            title: build.title,
+            filename: `${resolved}.html`,
+            template: `../${build.template ? resolved : "archive"}.html`,
+            excludeAssets: resolved == "view" ? [/res\/.*\.css/] : null,
+            chunks: chunks
+        });
+    }
+    plugins[i] = build;
+}
 
 for (const theme of themes) {
     let t = new extract(`res/${theme}.css`);
@@ -79,27 +90,5 @@ for (const theme of themes) {
     plugins.unshift(t);
 }
 
-module.exports = {
-    entry: {
-        core: "../js/core.js",
-        index: "../js/index.js",
-        archive: "../js/archive.js",
-        scores: "../js/scores.js",
-        games: "../js/games.js",
-        view: "../js/view.js"
-    },
-    module: {
-        rules: rules
-    },
-    output: {
-        path: path.resolve(__dirname, "output"),
-        filename: "[name].[chunkhash].js",
-    },
-    optimization: {
-        minimizer: [
-            new min.js(),
-            new min.css()
-        ]
-    },
-    plugins: plugins
-};
+module.exports.module = {rules: rules};
+module.exports.plugins = plugins;
